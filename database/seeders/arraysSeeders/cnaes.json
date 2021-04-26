@@ -1,0 +1,5279 @@
+[
+  {
+    "codigo": "1012-1/01", 
+    "nome": "Abate de aves"
+  },
+  {
+    "codigo": "1012-1/02",
+    "nome": "Abate de pequenos animais CNA"
+  },
+  {
+    "codigo": "1531-9/02",
+    "nome": "Acabamento de calçados de couro sob contrato"
+  },
+  {
+    "codigo": "5231-1/01",
+    "nome": "Administração da infra-estrutura portuária"
+  },
+  {
+    "codigo": "8550-3/01",
+    "nome": "Administração de caixas escolares"
+  },
+  {
+    "codigo": "6613-4/00",
+    "nome": "Administração de cartões de crédito"
+  },
+  {
+    "codigo": "6493-0/00",
+    "nome": "Administração de consórcios para aquisição de bens e direitos"
+  },
+  {
+    "codigo": "6611-8/04",
+    "nome": "Administração de mercados de balcão organizados"
+  },
+  {
+    "codigo": "4399-1/01",
+    "nome": "Administração de obras"
+  },
+  {
+    "codigo": "8411-6/00",
+    "nome": "Administração pública em geral"
+  },
+  {
+    "codigo": "5250-8/03",
+    "nome": "Agenciamento de cargas, exceto para o transporte marítimo"
+  },
+  {
+    "codigo": "7312-2/00",
+    "nome": "Agenciamento de espaços para publicidade, exceto em veículos de comunicação"
+  },
+  {
+    "codigo": "7490-1/05",
+    "nome": "Agenciamento de profissionais para atividades esportivas, culturais e artísticas"
+  },
+  {
+    "codigo": "6434-4/00",
+    "nome": "Agências de fomento"
+  },
+  {
+    "codigo": "6391-7/00",
+    "nome": "Agências de notícias"
+  },
+  {
+    "codigo": "7311-4/00",
+    "nome": "Agências de publicidade"
+  },
+  {
+    "codigo": "7911-2/00",
+    "nome": "Agências de viagens"
+  },
+  {
+    "codigo": "9609-2/02",
+    "nome": "Agências matrimoniais"
+  },
+  {
+    "codigo": "6911-7/03",
+    "nome": "Agente de propriedade industrial"
+  },
+  {
+    "codigo": "6612-6/05",
+    "nome": "Agentes de investimentos em aplicações financeiras"
+  },
+  {
+    "codigo": "8730-1/02",
+    "nome": "Albergues assistenciais"
+  },
+  {
+    "codigo": "5590-6/01",
+    "nome": "Albergues, exceto assistenciais"
+  },
+  {
+    "codigo": "9609-2/03",
+    "nome": "Alojamento, higiene e embelezamento de animais"
+  },
+  {
+    "codigo": "7732-2/02",
+    "nome": "Aluguel de andaimes"
+  },
+  {
+    "codigo": "7729-2/01",
+    "nome": "Aluguel de aparelhos de jogos eletrônicos"
+  },
+  {
+    "codigo": "7739-0/02",
+    "nome": "Aluguel de equipamentos científicos, médicos e hospitalares, sem operador"
+  },
+  {
+    "codigo": "7721-7/00",
+    "nome": "Aluguel de equipamentos recreativos e esportivos"
+  },
+  {
+    "codigo": "7722-5/00",
+    "nome": "Aluguel de fitas de vídeo, DVDs e similares"
+  },
+  {
+    "codigo": "6810-2/02",
+    "nome": "Aluguel de imóveis próprios"
+  },
+  {
+    "codigo": "7731-4/00",
+    "nome": "Aluguel de máquinas e equipamentos agrícolas sem operador"
+  },
+  {
+    "codigo": "7732-2/01",
+    "nome": "Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes"
+  },
+  {
+    "codigo": "7733-1/00",
+    "nome": "Aluguel de máquinas e equipamentos para escritório"
+  },
+  {
+    "codigo": "7739-0/01",
+    "nome": "Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador"
+  },
+  {
+    "codigo": "7729-2/03",
+    "nome": "Aluguel de material médico"
+  },
+  {
+    "codigo": "7729-2/02",
+    "nome": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal"
+  },
+  {
+    "codigo": "7723-3/00",
+    "nome": "Aluguel de objetos do vestuário, jóias e acessórios"
+  },
+  {
+    "codigo": "7739-0/99",
+    "nome": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+  },
+  {
+    "codigo": "7729-2/99",
+    "nome": "Aluguel de outros objetos pessoais e domésticos não especificados anteriormente"
+  },
+  {
+    "codigo": "7739-0/03",
+    "nome": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes"
+  },
+  {
+    "codigo": "1340-5/02",
+    "nome": "Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário"
+  },
+  {
+    "codigo": "2391-5/02",
+    "nome": "Aparelhamento de pedras para construção, exceto associado à extração"
+  },
+  {
+    "codigo": "2391-5/03",
+    "nome": "Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras"
+  },
+  {
+    "codigo": "5510-8/02",
+    "nome": "Apart-hotéis"
+  },
+  {
+    "codigo": "0159-8/01",
+    "nome": "Apicultura"
+  },
+  {
+    "codigo": "4330-4/05",
+    "nome": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+  },
+  {
+    "codigo": "5211-7/01",
+    "nome": "Armazéns gerais - emissão de warrant"
+  },
+  {
+    "codigo": "6440-9/00",
+    "nome": "Arrendamento mercantil"
+  },
+  {
+    "codigo": "9001-9/99",
+    "nome": "Artes cênicas, espetáculos e atividades complementares não especificados anteriormente"
+  },
+  {
+    "codigo": "6435-2/02",
+    "nome": "Associações de poupança e empréstimo"
+  },
+  {
+    "codigo": "8630-5/02",
+    "nome": "Atividade médica ambulatorial com recursos para realização de exames complementares"
+  },
+  {
+    "codigo": "8630-5/01",
+    "nome": "Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos"
+  },
+  {
+    "codigo": "8630-5/03",
+    "nome": "Atividade médica ambulatorial restrita a consultas"
+  },
+  {
+    "codigo": "8630-5/04",
+    "nome": "Atividade odontológica"
+  },
+  {
+    "codigo": "9499-5/00",
+    "nome": "Atividades associativas não especificadas anteriormente"
+  },
+  {
+    "codigo": "6911-7/02",
+    "nome": "Atividades auxiliares da justiça"
+  },
+  {
+    "codigo": "6629-1/00",
+    "nome": "Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente"
+  },
+  {
+    "codigo": "5240-1/99",
+    "nome": "Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem"
+  },
+  {
+    "codigo": "5239-7/00",
+    "nome": "Atividades auxiliares dos transportes aquaviários não especificadas anteriormente"
+  },
+  {
+    "codigo": "8690-9/03",
+    "nome": "Atividades de acupuntura"
+  },
+  {
+    "codigo": "6630-4/00",
+    "nome": "Atividades de administração de fundos por contrato ou comissão"
+  },
+  {
+    "codigo": "5232-0/00",
+    "nome": "Atividades de agenciamento marítimo"
+  },
+  {
+    "codigo": "0161-0/99",
+    "nome": "Atividades de apoio à agricultura não especificadas anteriormente"
+  },
+  {
+    "codigo": "0322-1/07",
+    "nome": "Atividades de apoio à aqüicultura em água doce"
+  },
+  {
+    "codigo": "0321-3/05",
+    "nome": "Atividades de apoio à aqüicultura em água salgada e salobra"
+  },
+  {
+    "codigo": "8550-3/02",
+    "nome": "Atividades de apoio à educação, exceto caixas escolares"
+  },
+  {
+    "codigo": "0990-4/02",
+    "nome": "Atividades de apoio à extração de minerais metálicos não-ferrosos"
+  },
+  {
+    "codigo": "0990-4/03",
+    "nome": "Atividades de apoio à extração de minerais não-metálicos"
+  },
+  {
+    "codigo": "0990-4/01",
+    "nome": "Atividades de apoio à extração de minério de ferro"
+  },
+  {
+    "codigo": "0910-6/00",
+    "nome": "Atividades de apoio à extração de petróleo e gás natural"
+  },
+  {
+    "codigo": "8660-7/00",
+    "nome": "Atividades de apoio à gestão de saúde"
+  },
+  {
+    "codigo": "0162-8/99",
+    "nome": "Atividades de apoio à pecuária não especificadas anteriormente"
+  },
+  {
+    "codigo": "0312-4/04",
+    "nome": "Atividades de apoio à pesca em água doce"
+  },
+  {
+    "codigo": "0311-6/04",
+    "nome": "Atividades de apoio à pesca em água salgada"
+  },
+  {
+    "codigo": "0230-6/00",
+    "nome": "Atividades de apoio à produção florestal"
+  },
+  {
+    "codigo": "9002-7/01",
+    "nome": "Atividades de artistas plásticos, jornalistas independentes e escritores"
+  },
+  {
+    "codigo": "8711-5/03",
+    "nome": "Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes"
+  },
+  {
+    "codigo": "8720-4/99",
+    "nome": "Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química não especificadas anteriormente"
+  },
+  {
+    "codigo": "8730-1/99",
+    "nome": "Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente"
+  },
+  {
+    "codigo": "9430-8/00",
+    "nome": "Atividades de associações de defesa de direitos sociais"
+  },
+  {
+    "codigo": "8630-5/99",
+    "nome": "Atividades de atenção ambulatorial não especificadas anteriormente"
+  },
+  {
+    "codigo": "8610-1/02",
+    "nome": "Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências"
+  },
+  {
+    "codigo": "8610-1/01",
+    "nome": "Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências"
+  },
+  {
+    "codigo": "8690-9/02",
+    "nome": "Atividades de bancos de leite humano"
+  },
+  {
+    "codigo": "9101-5/00",
+    "nome": "Atividades de bibliotecas e arquivos"
+  },
+  {
+    "codigo": "8720-4/01",
+    "nome": "Atividades de centros de assistência psicossocial"
+  },
+  {
+    "codigo": "8291-1/00",
+    "nome": "Atividades de cobrança e informações cadastrais"
+  },
+  {
+    "codigo": "9313-1/00",
+    "nome": "Atividades de condicionamento físico"
+  },
+  {
+    "codigo": "6920-6/02",
+    "nome": "Atividades de consultoria e auditoria contábil e tributária"
+  },
+  {
+    "codigo": "7020-4/00",
+    "nome": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+  },
+  {
+    "codigo": "6920-6/01",
+    "nome": "Atividades de contabilidade"
+  },
+  {
+    "codigo": "3511-5/02",
+    "nome": "Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica"
+  },
+  {
+    "codigo": "5250-8/02",
+    "nome": "Atividades de despachantes aduaneiros"
+  },
+  {
+    "codigo": "8650-0/01",
+    "nome": "Atividades de enfermagem"
+  },
+  {
+    "codigo": "9602-5/02",
+    "nome": "Atividades de estética e outros serviços de cuidados com a beleza"
+  },
+  {
+    "codigo": "7119-7/02",
+    "nome": "Atividades de estudos geológicos"
+  },
+  {
+    "codigo": "5914-6/00",
+    "nome": "Atividades de exibição cinematográfica"
+  },
+  {
+    "codigo": "8650-0/04",
+    "nome": "Atividades de fisioterapia"
+  },
+  {
+    "codigo": "8650-0/06",
+    "nome": "Atividades de fonoaudiologia"
+  },
+  {
+    "codigo": "8712-3/00",
+    "nome": "Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio"
+  },
+  {
+    "codigo": "5310-5/02",
+    "nome": "Atividades de franqueadas e permissionárias do Correio Nacional"
+  },
+  {
+    "codigo": "5920-1/00",
+    "nome": "Atividades de gravação de som e de edição de música"
+  },
+  {
+    "codigo": "7490-1/04",
+    "nome": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+  },
+  {
+    "codigo": "8030-7/00",
+    "nome": "Atividades de investigação particular"
+  },
+  {
+    "codigo": "9103-1/00",
+    "nome": "Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental"
+  },
+  {
+    "codigo": "8129-0/00",
+    "nome": "Atividades de limpeza não especificadas anteriormente"
+  },
+  {
+    "codigo": "8020-0/00",
+    "nome": "Atividades de monitoramento de sistemas de segurança"
+  },
+  {
+    "codigo": "9102-3/01",
+    "nome": "Atividades de museus e de exploração de lugares e prédios históricos e atrações similares"
+  },
+  {
+    "codigo": "9493-6/00",
+    "nome": "Atividades de organizações associativas ligadas à cultura e à arte"
+  },
+  {
+    "codigo": "9411-1/00",
+    "nome": "Atividades de organizações associativas patronais e empresariais"
+  },
+  {
+    "codigo": "9412-0/00",
+    "nome": "Atividades de organizações associativas profissionais"
+  },
+  {
+    "codigo": "9492-8/00",
+    "nome": "Atividades de organizações políticas"
+  },
+  {
+    "codigo": "9491-0/00",
+    "nome": "Atividades de organizações religiosas"
+  },
+  {
+    "codigo": "9420-1/00",
+    "nome": "Atividades de organizações sindicais"
+  },
+  {
+    "codigo": "8690-9/04",
+    "nome": "Atividades de podologia"
+  },
+  {
+    "codigo": "0163-6/00",
+    "nome": "Atividades de pós-colheita"
+  },
+  {
+    "codigo": "5912-0/99",
+    "nome": "Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente"
+  },
+  {
+    "codigo": "8690-9/01",
+    "nome": "Atividades de práticas integrativas e complementares em saúde humana"
+  },
+  {
+    "codigo": "5911-1/99",
+    "nome": "Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente"
+  },
+  {
+    "codigo": "7420-0/02",
+    "nome": "Atividades de produção de fotografias aéreas e submarinas"
+  },
+  {
+    "codigo": "7420-0/01",
+    "nome": "Atividades de produção de fotografias, exceto aérea e submarina"
+  },
+  {
+    "codigo": "8650-0/99",
+    "nome": "Atividades de profissionais da área de saúde não especificadas anteriormente"
+  },
+  {
+    "codigo": "8650-0/02",
+    "nome": "Atividades de profissionais da nutrição"
+  },
+  {
+    "codigo": "8650-0/03",
+    "nome": "Atividades de psicologia e psicanálise"
+  },
+  {
+    "codigo": "6010-1/00",
+    "nome": "Atividades de rádio"
+  },
+  {
+    "codigo": "8630-5/07",
+    "nome": "Atividades de reprodução humana assistida"
+  },
+  {
+    "codigo": "9609-2/05",
+    "nome": "Atividades de sauna e banhos"
+  },
+  {
+    "codigo": "8640-2/99",
+    "nome": "Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente"
+  },
+  {
+    "codigo": "9001-9/06",
+    "nome": "Atividades de sonorização e de iluminação"
+  },
+  {
+    "codigo": "8220-2/00",
+    "nome": "Atividades de teleatendimento"
+  },
+  {
+    "codigo": "6021-7/00",
+    "nome": "Atividades de televisão aberta"
+  },
+  {
+    "codigo": "8650-0/07",
+    "nome": "Atividades de terapia de nutrição enteral e parenteral"
+  },
+  {
+    "codigo": "8650-0/05",
+    "nome": "Atividades de terapia ocupacional"
+  },
+  {
+    "codigo": "8012-9/00",
+    "nome": "Atividades de transporte de valores"
+  },
+  {
+    "codigo": "8011-1/01",
+    "nome": "Atividades de vigilância e segurança privada"
+  },
+  {
+    "codigo": "5310-5/01",
+    "nome": "Atividades do Correio Nacional"
+  },
+  {
+    "codigo": "9603-3/99",
+    "nome": "Atividades funerárias e serviços relacionados não especificados anteriormente"
+  },
+  {
+    "codigo": "8130-3/00",
+    "nome": "Atividades paisagísticas"
+  },
+  {
+    "codigo": "3702-9/00",
+    "nome": "Atividades relacionadas a esgoto, exceto a gestão de redes"
+  },
+  {
+    "codigo": "6022-5/02",
+    "nome": "Atividades relacionadas à televisão por assinatura, exceto programadoras"
+  },
+  {
+    "codigo": "7119-7/99",
+    "nome": "Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente"
+  },
+  {
+    "codigo": "7500-1/00",
+    "nome": "Atividades veterinárias"
+  },
+  {
+    "codigo": "6621-5/02",
+    "nome": "Auditoria e consultoria atuarial"
+  },
+  {
+    "codigo": "6410-7/00",
+    "nome": "Banco Central"
+  },
+  {
+    "codigo": "6421-2/00",
+    "nome": "Bancos comerciais"
+  },
+  {
+    "codigo": "6424-7/01",
+    "nome": "Bancos cooperativos"
+  },
+  {
+    "codigo": "6438-7/01",
+    "nome": "Bancos de câmbio"
+  },
+  {
+    "codigo": "6433-6/00",
+    "nome": "Bancos de desenvolvimento"
+  },
+  {
+    "codigo": "6432-8/00",
+    "nome": "Bancos de investimento"
+  },
+  {
+    "codigo": "6422-1/00",
+    "nome": "Bancos múltiplos, com carteira comercial"
+  },
+  {
+    "codigo": "6431-0/00",
+    "nome": "Bancos múltiplos, sem carteira comercial"
+  },
+  {
+    "codigo": "5611-2/02",
+    "nome": "Bares e outros estabelecimentos especializados em servir bebidas"
+  },
+  {
+    "codigo": "1061-9/01",
+    "nome": "Beneficiamento de arroz"
+  },
+  {
+    "codigo": "1081-3/01",
+    "nome": "Beneficiamento de café"
+  },
+  {
+    "codigo": "0500-3/02",
+    "nome": "Beneficiamento de carvão mineral"
+  },
+  {
+    "codigo": "0810-0/10",
+    "nome": "Beneficiamento de gesso e caulim associado à extração"
+  },
+  {
+    "codigo": "0721-9/02",
+    "nome": "Beneficiamento de minério de alumínio"
+  },
+  {
+    "codigo": "0722-7/02",
+    "nome": "Beneficiamento de minério de estanho"
+  },
+  {
+    "codigo": "0723-5/02",
+    "nome": "Beneficiamento de minério de manganês"
+  },
+  {
+    "codigo": "0724-3/02",
+    "nome": "Beneficiamento de minério de metais preciosos"
+  },
+  {
+    "codigo": "0729-4/05",
+    "nome": "Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente"
+  },
+  {
+    "codigo": "6611-8/02",
+    "nome": "Bolsa de mercadorias"
+  },
+  {
+    "codigo": "6611-8/03",
+    "nome": "Bolsa de mercadorias e futuros"
+  },
+  {
+    "codigo": "6611-8/01",
+    "nome": "Bolsa de valores"
+  },
+  {
+    "codigo": "2391-5/01",
+    "nome": "Britamento de pedras, exceto associado à extração"
+  },
+  {
+    "codigo": "9602-5/01",
+    "nome": "Cabeleireiros"
+  },
+  {
+    "codigo": "0170-9/00",
+    "nome": "Caça e serviços relacionados"
+  },
+  {
+    "codigo": "6499-9/04",
+    "nome": "Caixas de financiamento de corporações"
+  },
+  {
+    "codigo": "6423-9/00",
+    "nome": "Caixas econômicas"
+  },
+  {
+    "codigo": "6619-3/04",
+    "nome": "Caixas eletrônicos"
+  },
+  {
+    "codigo": "5590-6/02",
+    "nome": "Campings"
+  },
+  {
+    "codigo": "5620-1/03",
+    "nome": "Cantinas - serviços de alimentação privativos"
+  },
+  {
+    "codigo": "3600-6/01",
+    "nome": "Captação, tratamento e distribuição de água"
+  },
+  {
+    "codigo": "5212-5/00",
+    "nome": "Carga e descarga"
+  },
+  {
+    "codigo": "6912-5/00",
+    "nome": "Cartórios"
+  },
+  {
+    "codigo": "9200-3/01",
+    "nome": "Casas de bingo"
+  },
+  {
+    "codigo": "8230-0/02",
+    "nome": "Casas de festas e eventos"
+  },
+  {
+    "codigo": "8299-7/06",
+    "nome": "Casas lotéricas"
+  },
+  {
+    "codigo": "8711-5/04",
+    "nome": "Centros de apoio a pacientes com câncer e com AIDS"
+  },
+  {
+    "codigo": "9529-1/02",
+    "nome": "Chaveiros"
+  },
+  {
+    "codigo": "8711-5/01",
+    "nome": "Clínicas e residências geriátricas"
+  },
+  {
+    "codigo": "6499-9/01",
+    "nome": "Clubes de investimento"
+  },
+  {
+    "codigo": "9312-3/00",
+    "nome": "Clubes sociais, esportivos e similares"
+  },
+  {
+    "codigo": "0220-9/03",
+    "nome": "Coleta de castanha-do-pará em florestas nativas"
+  },
+  {
+    "codigo": "0220-9/04",
+    "nome": "Coleta de látex em florestas nativas"
+  },
+  {
+    "codigo": "0312-4/03",
+    "nome": "Coleta de outros produtos aquáticos de água doce"
+  },
+  {
+    "codigo": "0311-6/03",
+    "nome": "Coleta de outros produtos marinhos"
+  },
+  {
+    "codigo": "0220-9/05",
+    "nome": "Coleta de palmito em florestas nativas"
+  },
+  {
+    "codigo": "0220-9/99",
+    "nome": "Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas"
+  },
+  {
+    "codigo": "3811-4/00",
+    "nome": "Coleta de resíduos não-perigosos"
+  },
+  {
+    "codigo": "3812-2/00",
+    "nome": "Coleta de resíduos perigosos"
+  },
+  {
+    "codigo": "4511-1/01",
+    "nome": "Comércio a varejo de automóveis, camionetas e utilitários novos"
+  },
+  {
+    "codigo": "4511-1/02",
+    "nome": "Comércio a varejo de automóveis, camionetas e utilitários usados"
+  },
+  {
+    "codigo": "4541-2/03",
+    "nome": "Comércio a varejo de motocicletas e motonetas novas"
+  },
+  {
+    "codigo": "4541-2/04",
+    "nome": "Comércio a varejo de motocicletas e motonetas usadas"
+  },
+  {
+    "codigo": "4530-7/03",
+    "nome": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+  },
+  {
+    "codigo": "4541-2/05",
+    "nome": "Comércio a varejo de peças e acessórios para motocicletas e motonetas"
+  },
+  {
+    "codigo": "4530-7/04",
+    "nome": "Comércio a varejo de peças e acessórios usados para veículos automotores"
+  },
+  {
+    "codigo": "4530-7/05",
+    "nome": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+  },
+  {
+    "codigo": "4637-1/02",
+    "nome": "Comércio atacadista de açúcar"
+  },
+  {
+    "codigo": "4635-4/01",
+    "nome": "Comércio atacadista de água mineral"
+  },
+  {
+    "codigo": "4681-8/01",
+    "nome": "Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)"
+  },
+  {
+    "codigo": "4623-1/03",
+    "nome": "Comércio atacadista de algodão"
+  },
+  {
+    "codigo": "4623-1/09",
+    "nome": "Comércio atacadista de alimentos para animais"
+  },
+  {
+    "codigo": "4623-1/01",
+    "nome": "Comércio atacadista de animais vivos"
+  },
+  {
+    "codigo": "4649-4/02",
+    "nome": "Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico"
+  },
+  {
+    "codigo": "4641-9/03",
+    "nome": "Comércio atacadista de artigos de armarinho"
+  },
+  {
+    "codigo": "4641-9/02",
+    "nome": "Comércio atacadista de artigos de cama, mesa e banho"
+  },
+  {
+    "codigo": "4647-8/01",
+    "nome": "Comércio atacadista de artigos de escritório e de papelaria"
+  },
+  {
+    "codigo": "4649-4/05",
+    "nome": "Comércio atacadista de artigos de tapeçaria"
+  },
+  {
+    "codigo": "4642-7/01",
+    "nome": "Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança"
+  },
+  {
+    "codigo": "4634-6/02",
+    "nome": "Comércio atacadista de aves abatidas e derivados"
+  },
+  {
+    "codigo": "4633-8/02",
+    "nome": "Comércio atacadista de aves vivas e ovos"
+  },
+  {
+    "codigo": "4635-4/03",
+    "nome": "Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "codigo": "4635-4/99",
+    "nome": "Comércio atacadista de bebidas não especificadas anteriormente"
+  },
+  {
+    "codigo": "4649-4/03",
+    "nome": "Comércio atacadista de bicicletas, triciclos e outros veículos recreativos"
+  },
+  {
+    "codigo": "4643-5/02",
+    "nome": "Comércio atacadista de bolsas, malas e artigos de viagem"
+  },
+  {
+    "codigo": "4669-9/01",
+    "nome": "Comércio atacadista de bombas e compressores"
+  },
+  {
+    "codigo": "4623-1/05",
+    "nome": "Comércio atacadista de cacau"
+  },
+  {
+    "codigo": "4621-4/00",
+    "nome": "Comércio atacadista de café em grão"
+  },
+  {
+    "codigo": "4637-1/01",
+    "nome": "Comércio atacadista de café torrado, moído e solúvel"
+  },
+  {
+    "codigo": "4643-5/01",
+    "nome": "Comércio atacadista de calçados"
+  },
+  {
+    "codigo": "4634-6/01",
+    "nome": "Comércio atacadista de carnes bovinas e suínas e derivados"
+  },
+  {
+    "codigo": "4634-6/99",
+    "nome": "Comércio atacadista de carnes e derivados de outros animais"
+  },
+  {
+    "codigo": "4632-0/01",
+    "nome": "Comércio atacadista de cereais e leguminosas beneficiados"
+  },
+  {
+    "codigo": "4632-0/03",
+    "nome": "Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "codigo": "4635-4/02",
+    "nome": "Comércio atacadista de cerveja, chope e refrigerante"
+  },
+  {
+    "codigo": "4637-1/07",
+    "nome": "Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes"
+  },
+  {
+    "codigo": "4636-2/02",
+    "nome": "Comércio atacadista de cigarros, cigarrilhas e charutos"
+  },
+  {
+    "codigo": "4674-5/00",
+    "nome": "Comércio atacadista de cimento"
+  },
+  {
+    "codigo": "4633-8/03",
+    "nome": "Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação"
+  },
+  {
+    "codigo": "4681-8/04",
+    "nome": "Comércio atacadista de combustíveis de origem mineral em bruto"
+  },
+  {
+    "codigo": "4681-8/03",
+    "nome": "Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante"
+  },
+  {
+    "codigo": "4681-8/02",
+    "nome": "Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)"
+  },
+  {
+    "codigo": "4652-4/00",
+    "nome": "Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação"
+  },
+  {
+    "codigo": "4646-0/01",
+    "nome": "Comércio atacadista de cosméticos e produtos de perfumaria"
+  },
+  {
+    "codigo": "4623-1/02",
+    "nome": "Comércio atacadista de couros, lãs, peles e outros subprodutos não-comestíveis de origem animal"
+  },
+  {
+    "codigo": "4683-4/00",
+    "nome": "Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo"
+  },
+  {
+    "codigo": "4686-9/02",
+    "nome": "Comércio atacadista de embalagens"
+  },
+  {
+    "codigo": "3513-1/00",
+    "nome": "Comércio atacadista de energia elétrica"
+  },
+  {
+    "codigo": "4651-6/01",
+    "nome": "Comércio atacadista de equipamentos de informática"
+  },
+  {
+    "codigo": "4649-4/01",
+    "nome": "Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico"
+  },
+  {
+    "codigo": "4632-0/02",
+    "nome": "Comércio atacadista de farinhas, amidos e féculas"
+  },
+  {
+    "codigo": "4672-9/00",
+    "nome": "Comércio atacadista de ferragens e ferramentas"
+  },
+  {
+    "codigo": "4649-4/07",
+    "nome": "Comércio atacadista de filmes, CDs, DVDs, fitas e discos"
+  },
+  {
+    "codigo": "4689-3/02",
+    "nome": "Comércio atacadista de fios e fibras têxteis beneficiados"
+  },
+  {
+    "codigo": "4633-8/01",
+    "nome": "Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos"
+  },
+  {
+    "codigo": "4636-2/01",
+    "nome": "Comércio atacadista de fumo beneficiado"
+  },
+  {
+    "codigo": "4623-1/04",
+    "nome": "Comércio atacadista de fumo em folha não beneficiado"
+  },
+  {
+    "codigo": "4682-6/00",
+    "nome": "Comércio atacadista de gás liqüefeito de petróleo (GLP)"
+  },
+  {
+    "codigo": "4645-1/01",
+    "nome": "Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios"
+  },
+  {
+    "codigo": "4649-4/10",
+    "nome": "Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas"
+  },
+  {
+    "codigo": "4631-1/00",
+    "nome": "Comércio atacadista de leite e laticínios"
+  },
+  {
+    "codigo": "4647-8/02",
+    "nome": "Comércio atacadista de livros, jornais e outras publicações"
+  },
+  {
+    "codigo": "4681-8/05",
+    "nome": "Comércio atacadista de lubrificantes"
+  },
+  {
+    "codigo": "4649-4/06",
+    "nome": "Comércio atacadista de lustres, luminárias e abajures"
+  },
+  {
+    "codigo": "4671-1/00",
+    "nome": "Comércio atacadista de madeira e produtos derivados"
+  },
+  {
+    "codigo": "4665-6/00",
+    "nome": "Comércio atacadista de máquinas e equipamentos para uso comercial"
+  },
+  {
+    "codigo": "4663-0/00",
+    "nome": "Comércio atacadista de máquinas e equipamentos para uso industrial"
+  },
+  {
+    "codigo": "4661-3/00",
+    "nome": "Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário"
+  },
+  {
+    "codigo": "4664-8/00",
+    "nome": "Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar"
+  },
+  {
+    "codigo": "4662-1/00",
+    "nome": "Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção"
+  },
+  {
+    "codigo": "4679-6/02",
+    "nome": "Comércio atacadista de mármores e granitos"
+  },
+  {
+    "codigo": "4637-1/05",
+    "nome": "Comércio atacadista de massas alimentícias"
+  },
+  {
+    "codigo": "4679-6/99",
+    "nome": "Comércio atacadista de materiais de construção em geral"
+  },
+  {
+    "codigo": "4673-7/00",
+    "nome": "Comércio atacadista de material elétrico"
+  },
+  {
+    "codigo": "4623-1/08",
+    "nome": "Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "codigo": "4623-1/99",
+    "nome": "Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente"
+  },
+  {
+    "codigo": "4644-3/01",
+    "nome": "Comércio atacadista de medicamentos e drogas de uso humano"
+  },
+  {
+    "codigo": "4644-3/02",
+    "nome": "Comércio atacadista de medicamentos e drogas de uso veterinário"
+  },
+  {
+    "codigo": "4692-3/00",
+    "nome": "Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários"
+  },
+  {
+    "codigo": "4691-5/00",
+    "nome": "Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+  },
+  {
+    "codigo": "4693-1/00",
+    "nome": "Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários"
+  },
+  {
+    "codigo": "4649-4/04",
+    "nome": "Comércio atacadista de móveis e artigos de colchoaria"
+  },
+  {
+    "codigo": "4637-1/03",
+    "nome": "Comércio atacadista de óleos e gorduras"
+  },
+  {
+    "codigo": "4669-9/99",
+    "nome": "Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente"
+  },
+  {
+    "codigo": "4649-4/99",
+    "nome": "Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente"
+  },
+  {
+    "codigo": "4684-2/99",
+    "nome": "Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente"
+  },
+  {
+    "codigo": "4637-1/04",
+    "nome": "Comércio atacadista de pães, bolos, biscoitos e similares"
+  },
+  {
+    "codigo": "4686-9/01",
+    "nome": "Comércio atacadista de papel e papelão em bruto"
+  },
+  {
+    "codigo": "4634-6/03",
+    "nome": "Comércio atacadista de pescados e frutos do mar"
+  },
+  {
+    "codigo": "4639-7/01",
+    "nome": "Comércio atacadista de produtos alimentícios em geral"
+  },
+  {
+    "codigo": "4639-7/02",
+    "nome": "Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "codigo": "4689-3/01",
+    "nome": "Comércio atacadista de produtos da extração mineral, exceto combustíveis"
+  },
+  {
+    "codigo": "4646-0/02",
+    "nome": "Comércio atacadista de produtos de higiene pessoal"
+  },
+  {
+    "codigo": "4649-4/08",
+    "nome": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+  },
+  {
+    "codigo": "4649-4/09",
+    "nome": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada"
+  },
+  {
+    "codigo": "4645-1/03",
+    "nome": "Comércio atacadista de produtos odontológicos"
+  },
+  {
+    "codigo": "4685-1/00",
+    "nome": "Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção"
+  },
+  {
+    "codigo": "4645-1/02",
+    "nome": "Comércio atacadista de próteses e artigos de ortopedia"
+  },
+  {
+    "codigo": "4687-7/01",
+    "nome": "Comércio atacadista de resíduos de papel e papelão"
+  },
+  {
+    "codigo": "4687-7/03",
+    "nome": "Comércio atacadista de resíduos e sucatas metálicos"
+  },
+  {
+    "codigo": "4687-7/02",
+    "nome": "Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão"
+  },
+  {
+    "codigo": "4684-2/01",
+    "nome": "Comércio atacadista de resinas e elastômeros"
+  },
+  {
+    "codigo": "4642-7/02",
+    "nome": "Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho"
+  },
+  {
+    "codigo": "4623-1/06",
+    "nome": "Comércio atacadista de sementes, flores, plantas e gramas"
+  },
+  {
+    "codigo": "4623-1/07",
+    "nome": "Comércio atacadista de sisal"
+  },
+  {
+    "codigo": "4622-2/00",
+    "nome": "Comércio atacadista de soja"
+  },
+  {
+    "codigo": "4684-2/02",
+    "nome": "Comércio atacadista de solventes"
+  },
+  {
+    "codigo": "4637-1/06",
+    "nome": "Comércio atacadista de sorvetes"
+  },
+  {
+    "codigo": "4651-6/02",
+    "nome": "Comércio atacadista de suprimentos para informática"
+  },
+  {
+    "codigo": "4641-9/01",
+    "nome": "Comércio atacadista de tecidos"
+  },
+  {
+    "codigo": "4679-6/01",
+    "nome": "Comércio atacadista de tintas, vernizes e similares"
+  },
+  {
+    "codigo": "4679-6/03",
+    "nome": "Comércio atacadista de vidros, espelhos e vitrais"
+  },
+  {
+    "codigo": "4679-6/04",
+    "nome": "Comércio atacadista especializado de materiais de construção não especificados anteriormente"
+  },
+  {
+    "codigo": "4637-1/99",
+    "nome": "Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente"
+  },
+  {
+    "codigo": "4689-3/99",
+    "nome": "Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente"
+  },
+  {
+    "codigo": "4511-1/03",
+    "nome": "Comércio por atacado de automóveis, camionetas e utilitários novos e usados"
+  },
+  {
+    "codigo": "4511-1/04",
+    "nome": "Comércio por atacado de caminhões novos e usados"
+  },
+  {
+    "codigo": "4541-2/01",
+    "nome": "Comércio por atacado de motocicletas e motonetas"
+  },
+  {
+    "codigo": "4511-1/06",
+    "nome": "Comércio por atacado de ônibus e microônibus novos e usados"
+  },
+  {
+    "codigo": "4530-7/01",
+    "nome": "Comércio por atacado de peças e acessórios novos para veículos automotores"
+  },
+  {
+    "codigo": "4541-2/02",
+    "nome": "Comércio por atacado de peças e acessórios para motocicletas e motonetas"
+  },
+  {
+    "codigo": "4530-7/02",
+    "nome": "Comércio por atacado de pneumáticos e câmaras-de-ar"
+  },
+  {
+    "codigo": "4511-1/05",
+    "nome": "Comércio por atacado de reboques e semi-reboques novos e usados"
+  },
+  {
+    "codigo": "4542-1/02",
+    "nome": "Comércio sob consignação de motocicletas e motonetas"
+  },
+  {
+    "codigo": "4512-9/02",
+    "nome": "Comércio sob consignação de veículos automotores"
+  },
+  {
+    "codigo": "4789-0/04",
+    "nome": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+  },
+  {
+    "codigo": "4785-7/01",
+    "nome": "Comércio varejista de antigüidades"
+  },
+  {
+    "codigo": "4789-0/09",
+    "nome": "Comércio varejista de armas e munições"
+  },
+  {
+    "codigo": "4755-5/02",
+    "nome": "Comercio varejista de artigos de armarinho"
+  },
+  {
+    "codigo": "4763-6/04",
+    "nome": "Comércio varejista de artigos de caça, pesca e camping"
+  },
+  {
+    "codigo": "4755-5/03",
+    "nome": "Comercio varejista de artigos de cama, mesa e banho"
+  },
+  {
+    "codigo": "4754-7/02",
+    "nome": "Comércio varejista de artigos de colchoaria"
+  },
+  {
+    "codigo": "4754-7/03",
+    "nome": "Comércio varejista de artigos de iluminação"
+  },
+  {
+    "codigo": "4783-1/01",
+    "nome": "Comércio varejista de artigos de joalheria"
+  },
+  {
+    "codigo": "4774-1/00",
+    "nome": "Comércio varejista de artigos de óptica"
+  },
+  {
+    "codigo": "4761-0/03",
+    "nome": "Comércio varejista de artigos de papelaria"
+  },
+  {
+    "codigo": "4783-1/02",
+    "nome": "Comércio varejista de artigos de relojoaria"
+  },
+  {
+    "codigo": "4759-8/01",
+    "nome": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+  },
+  {
+    "codigo": "4782-2/02",
+    "nome": "Comércio varejista de artigos de viagem"
+  },
+  {
+    "codigo": "4781-4/00",
+    "nome": "Comércio varejista de artigos do vestuário e acessórios"
+  },
+  {
+    "codigo": "4763-6/02",
+    "nome": "Comércio varejista de artigos esportivos"
+  },
+  {
+    "codigo": "4789-0/08",
+    "nome": "Comércio varejista de artigos fotográficos e para filmagem"
+  },
+  {
+    "codigo": "4773-3/00",
+    "nome": "Comércio varejista de artigos médicos e ortopédicos"
+  },
+  {
+    "codigo": "4723-7/00",
+    "nome": "Comércio varejista de bebidas"
+  },
+  {
+    "codigo": "4763-6/03",
+    "nome": "Comércio varejista de bicicletas e triciclos"
+  },
+  {
+    "codigo": "4763-6/01",
+    "nome": "Comércio varejista de brinquedos e artigos recreativos"
+  },
+  {
+    "codigo": "4744-0/04",
+    "nome": "Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+  },
+  {
+    "codigo": "4782-2/01",
+    "nome": "Comércio varejista de calçados"
+  },
+  {
+    "codigo": "4722-9/01",
+    "nome": "Comércio varejista de carnes - açougues"
+  },
+  {
+    "codigo": "4731-8/00",
+    "nome": "Comércio varejista de combustíveis para veículos automotores"
+  },
+  {
+    "codigo": "4772-5/00",
+    "nome": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+  },
+  {
+    "codigo": "4762-8/00",
+    "nome": "Comércio varejista de discos, CDs, DVDs e fitas"
+  },
+  {
+    "codigo": "4721-1/04",
+    "nome": "Comércio varejista de doces, balas, bombons e semelhantes"
+  },
+  {
+    "codigo": "4763-6/05",
+    "nome": "Comércio varejista de embarcações e outros veículos recreativos"
+  },
+  {
+    "codigo": "4789-0/07",
+    "nome": "Comércio varejista de equipamentos para escritório"
+  },
+  {
+    "codigo": "4744-0/01",
+    "nome": "Comércio varejista de ferragens e ferramentas"
+  },
+  {
+    "codigo": "4789-0/06",
+    "nome": "Comércio varejista de fogos de artifício e artigos pirotécnicos"
+  },
+  {
+    "codigo": "4784-9/00",
+    "nome": "Comércio varejista de gás liqüefeito de petróleo (GLP)"
+  },
+  {
+    "codigo": "4724-5/00",
+    "nome": "Comércio varejista de hortifrutigranjeiros"
+  },
+  {
+    "codigo": "4761-0/02",
+    "nome": "Comércio varejista de jornais e revistas"
+  },
+  {
+    "codigo": "4721-1/03",
+    "nome": "Comércio varejista de laticínios e frios"
+  },
+  {
+    "codigo": "4761-0/01",
+    "nome": "Comércio varejista de livros"
+  },
+  {
+    "codigo": "4732-6/00",
+    "nome": "Comércio varejista de lubrificantes"
+  },
+  {
+    "codigo": "4744-0/02",
+    "nome": "Comércio varejista de madeira e artefatos"
+  },
+  {
+    "codigo": "4744-0/99",
+    "nome": "Comércio varejista de materiais de construção em geral"
+  },
+  {
+    "codigo": "4744-0/05",
+    "nome": "Comércio varejista de materiais de construção não especificados anteriormente"
+  },
+  {
+    "codigo": "4744-0/03",
+    "nome": "Comércio varejista de materiais hidráulicos"
+  },
+  {
+    "codigo": "4742-3/00",
+    "nome": "Comércio varejista de material elétrico"
+  },
+  {
+    "codigo": "4771-7/04",
+    "nome": "Comércio varejista de medicamentos veterinários"
+  },
+  {
+    "codigo": "4711-3/01",
+    "nome": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados"
+  },
+  {
+    "codigo": "4712-1/00",
+    "nome": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+  },
+  {
+    "codigo": "4711-3/02",
+    "nome": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+  },
+  {
+    "codigo": "4729-6/02",
+    "nome": "Comércio varejista de mercadorias em lojas de conveniência"
+  },
+  {
+    "codigo": "4754-7/01",
+    "nome": "Comércio varejista de móveis"
+  },
+  {
+    "codigo": "4789-0/03",
+    "nome": "Comércio varejista de objetos de arte"
+  },
+  {
+    "codigo": "4759-8/99",
+    "nome": "Comércio varejista de outros artigos de uso doméstico não especificados anteriormente"
+  },
+  {
+    "codigo": "4785-7/99",
+    "nome": "Comércio varejista de outros artigos usados"
+  },
+  {
+    "codigo": "4789-0/99",
+    "nome": "Comércio varejista de outros produtos não especificados anteriormente"
+  },
+  {
+    "codigo": "4744-0/06",
+    "nome": "Comércio varejista de pedras para revestimento"
+  },
+  {
+    "codigo": "4789-0/02",
+    "nome": "Comércio varejista de plantas e flores naturais"
+  },
+  {
+    "codigo": "4729-6/99",
+    "nome": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+  },
+  {
+    "codigo": "4771-7/03",
+    "nome": "Comércio varejista de produtos farmacêuticos homeopáticos"
+  },
+  {
+    "codigo": "4771-7/02",
+    "nome": "Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas"
+  },
+  {
+    "codigo": "4771-7/01",
+    "nome": "Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+  },
+  {
+    "codigo": "4789-0/05",
+    "nome": "Comércio varejista de produtos saneantes domissanitários"
+  },
+  {
+    "codigo": "4789-0/01",
+    "nome": "Comércio varejista de suvenires, bijuterias e artesanatos"
+  },
+  {
+    "codigo": "4755-5/01",
+    "nome": "Comércio varejista de tecidos"
+  },
+  {
+    "codigo": "4741-5/00",
+    "nome": "Comércio varejista de tintas e materiais para pintura"
+  },
+  {
+    "codigo": "4743-1/00",
+    "nome": "Comércio varejista de vidros"
+  },
+  {
+    "codigo": "4753-9/00",
+    "nome": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+  },
+  {
+    "codigo": "4752-1/00",
+    "nome": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+  },
+  {
+    "codigo": "4751-2/01",
+    "nome": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+  },
+  {
+    "codigo": "4756-3/00",
+    "nome": "Comércio varejista especializado de instrumentos musicais e acessórios"
+  },
+  {
+    "codigo": "4757-1/00",
+    "nome": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+  },
+  {
+    "codigo": "5250-8/01",
+    "nome": "Comissaria de despachos"
+  },
+  {
+    "codigo": "6435-2/03",
+    "nome": "Companhias hipotecárias"
+  },
+  {
+    "codigo": "6810-2/01",
+    "nome": "Compra e venda de imóveis próprios"
+  },
+  {
+    "codigo": "6499-9/05",
+    "nome": "Concessão de crédito pelas OSCIP"
+  },
+  {
+    "codigo": "5221-4/00",
+    "nome": "Concessionárias de rodovias, pontes, túneis e serviços relacionados"
+  },
+  {
+    "codigo": "8112-5/00",
+    "nome": "Condomínios prediais"
+  },
+  {
+    "codigo": "8711-5/05",
+    "nome": "Condomínios residenciais para idosos"
+  },
+  {
+    "codigo": "1412-6/01",
+    "nome": "Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+  },
+  {
+    "codigo": "1411-8/01",
+    "nome": "Confecção de roupas íntimas"
+  },
+  {
+    "codigo": "1413-4/01",
+    "nome": "Confecção de roupas profissionais, exceto sob medida"
+  },
+  {
+    "codigo": "1412-6/02",
+    "nome": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+  },
+  {
+    "codigo": "1413-4/02",
+    "nome": "Confecção, sob medida, de roupas profissionais"
+  },
+  {
+    "codigo": "0220-9/06",
+    "nome": "Conservação de florestas nativas"
+  },
+  {
+    "codigo": "4221-9/01",
+    "nome": "Construção de barragens e represas para geração de energia elétrica"
+  },
+  {
+    "codigo": "4120-4/00",
+    "nome": "Construção de edifícios"
+  },
+  {
+    "codigo": "3011-3/01",
+    "nome": "Construção de embarcações de grande porte"
+  },
+  {
+    "codigo": "3012-1/00",
+    "nome": "Construção de embarcações para esporte e lazer"
+  },
+  {
+    "codigo": "3011-3/02",
+    "nome": "Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte"
+  },
+  {
+    "codigo": "4221-9/02",
+    "nome": "Construção de estações e redes de distribuição de energia elétrica"
+  },
+  {
+    "codigo": "4221-9/04",
+    "nome": "Construção de estações e redes de telecomunicações"
+  },
+  {
+    "codigo": "4299-5/01",
+    "nome": "Construção de instalações esportivas e recreativas"
+  },
+  {
+    "codigo": "4212-0/00",
+    "nome": "Construção de obras-de-arte especiais"
+  },
+  {
+    "codigo": "4222-7/01",
+    "nome": "Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação"
+  },
+  {
+    "codigo": "4223-5/00",
+    "nome": "Construção de redes de transportes por dutos, exceto para água e esgoto"
+  },
+  {
+    "codigo": "4211-1/01",
+    "nome": "Construção de rodovias e ferrovias"
+  },
+  {
+    "codigo": "7319-0/04",
+    "nome": "Consultoria em publicidade"
+  },
+  {
+    "codigo": "6204-0/00",
+    "nome": "Consultoria em tecnologia da informação"
+  },
+  {
+    "codigo": "6424-7/02",
+    "nome": "Cooperativas centrais de crédito"
+  },
+  {
+    "codigo": "6424-7/03",
+    "nome": "Cooperativas de crédito mútuo"
+  },
+  {
+    "codigo": "6424-7/04",
+    "nome": "Cooperativas de crédito rural"
+  },
+  {
+    "codigo": "1910-1/00",
+    "nome": "Coquerias"
+  },
+  {
+    "codigo": "6619-3/02",
+    "nome": "Correspondentes de instituições financeiras"
+  },
+  {
+    "codigo": "6821-8/01",
+    "nome": "Corretagem na compra e venda e avaliação de imóveis"
+  },
+  {
+    "codigo": "6821-8/02",
+    "nome": "Corretagem no aluguel de imóveis"
+  },
+  {
+    "codigo": "6612-6/03",
+    "nome": "Corretoras de câmbio"
+  },
+  {
+    "codigo": "6612-6/04",
+    "nome": "Corretoras de contratos de mercadorias"
+  },
+  {
+    "codigo": "6612-6/01",
+    "nome": "Corretoras de títulos e valores mobiliários"
+  },
+  {
+    "codigo": "6622-3/00",
+    "nome": "Corretores e agentes de seguros, de planos de previdência complementar e de saúde"
+  },
+  {
+    "codigo": "0159-8/02",
+    "nome": "Criação de animais de estimação"
+  },
+  {
+    "codigo": "0152-1/03",
+    "nome": "Criação de asininos e muares"
+  },
+  {
+    "codigo": "0155-5/04",
+    "nome": "Criação de aves, exceto galináceos"
+  },
+  {
+    "codigo": "0159-8/04",
+    "nome": "Criação de bicho-da-seda"
+  },
+  {
+    "codigo": "0151-2/01",
+    "nome": "Criação de bovinos para corte"
+  },
+  {
+    "codigo": "0151-2/02",
+    "nome": "Criação de bovinos para leite"
+  },
+  {
+    "codigo": "0151-2/03",
+    "nome": "Criação de bovinos, exceto para corte e leite"
+  },
+  {
+    "codigo": "0152-1/01",
+    "nome": "Criação de bufalinos"
+  },
+  {
+    "codigo": "0322-1/02",
+    "nome": "Criação de camarões em água doce"
+  },
+  {
+    "codigo": "0321-3/02",
+    "nome": "Criação de camarões em água salgada e salobra"
+  },
+  {
+    "codigo": "0153-9/01",
+    "nome": "Criação de caprinos"
+  },
+  {
+    "codigo": "0152-1/02",
+    "nome": "Criação de eqüinos"
+  },
+  {
+    "codigo": "0159-8/03",
+    "nome": "Criação de escargô"
+  },
+  {
+    "codigo": "7319-0/01",
+    "nome": "Criação de estandes para feiras e exposições"
+  },
+  {
+    "codigo": "0155-5/01",
+    "nome": "Criação de frangos para corte"
+  },
+  {
+    "codigo": "0322-1/06",
+    "nome": "Criação de jacaré"
+  },
+  {
+    "codigo": "0322-1/03",
+    "nome": "Criação de ostras e mexilhões em água doce"
+  },
+  {
+    "codigo": "0321-3/03",
+    "nome": "Criação de ostras e mexilhões em água salgada e salobra"
+  },
+  {
+    "codigo": "0159-8/99",
+    "nome": "Criação de outros animais não especificados anteriormente"
+  },
+  {
+    "codigo": "0155-5/03",
+    "nome": "Criação de outros galináceos, exceto para corte"
+  },
+  {
+    "codigo": "0153-9/02",
+    "nome": "Criação de ovinos, inclusive para produção de lã"
+  },
+  {
+    "codigo": "0322-1/01",
+    "nome": "Criação de peixes em água doce"
+  },
+  {
+    "codigo": "0321-3/01",
+    "nome": "Criação de peixes em água salgada e salobra"
+  },
+  {
+    "codigo": "0322-1/04",
+    "nome": "Criação de peixes ornamentais em água doce"
+  },
+  {
+    "codigo": "0321-3/04",
+    "nome": "Criação de peixes ornamentais em água salgada e salobra"
+  },
+  {
+    "codigo": "0154-7/00",
+    "nome": "Criação de suínos"
+  },
+  {
+    "codigo": "0119-9/01",
+    "nome": "Cultivo de abacaxi"
+  },
+  {
+    "codigo": "0210-1/02",
+    "nome": "Cultivo de acácia-negra"
+  },
+  {
+    "codigo": "0133-4/01",
+    "nome": "Cultivo de açaí"
+  },
+  {
+    "codigo": "0112-1/01",
+    "nome": "Cultivo de algodão herbáceo"
+  },
+  {
+    "codigo": "0119-9/02",
+    "nome": "Cultivo de alho"
+  },
+  {
+    "codigo": "0116-4/01",
+    "nome": "Cultivo de amendoim"
+  },
+  {
+    "codigo": "0111-3/01",
+    "nome": "Cultivo de arroz"
+  },
+  {
+    "codigo": "0133-4/02",
+    "nome": "Cultivo de banana"
+  },
+  {
+    "codigo": "0119-9/03",
+    "nome": "Cultivo de batata-inglesa"
+  },
+  {
+    "codigo": "0135-1/00",
+    "nome": "Cultivo de cacau"
+  },
+  {
+    "codigo": "0134-2/00",
+    "nome": "Cultivo de café"
+  },
+  {
+    "codigo": "0133-4/03",
+    "nome": "Cultivo de caju"
+  },
+  {
+    "codigo": "0113-0/00",
+    "nome": "Cultivo de cana-de-açúcar"
+  },
+  {
+    "codigo": "0119-9/04",
+    "nome": "Cultivo de cebola"
+  },
+  {
+    "codigo": "0139-3/01",
+    "nome": "Cultivo de chá-da-índia"
+  },
+  {
+    "codigo": "0133-4/04",
+    "nome": "Cultivo de cítricos, exceto laranja"
+  },
+  {
+    "codigo": "0133-4/05",
+    "nome": "Cultivo de coco-da-baía"
+  },
+  {
+    "codigo": "0139-3/05",
+    "nome": "Cultivo de dendê"
+  },
+  {
+    "codigo": "0139-3/02",
+    "nome": "Cultivo de erva-mate"
+  },
+  {
+    "codigo": "0210-1/05",
+    "nome": "Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca"
+  },
+  {
+    "codigo": "0210-1/01",
+    "nome": "Cultivo de eucalipto"
+  },
+  {
+    "codigo": "0119-9/05",
+    "nome": "Cultivo de feijão"
+  },
+  {
+    "codigo": "0122-9/00",
+    "nome": "Cultivo de flores e plantas ornamentais"
+  },
+  {
+    "codigo": "0133-4/99",
+    "nome": "Cultivo de frutas de lavoura permanente não especificadas anteriormente"
+  },
+  {
+    "codigo": "0114-8/00",
+    "nome": "Cultivo de fumo"
+  },
+  {
+    "codigo": "0116-4/02",
+    "nome": "Cultivo de girassol"
+  },
+  {
+    "codigo": "0133-4/06",
+    "nome": "Cultivo de guaraná"
+  },
+  {
+    "codigo": "0112-1/02",
+    "nome": "Cultivo de juta"
+  },
+  {
+    "codigo": "0131-8/00",
+    "nome": "Cultivo de laranja"
+  },
+  {
+    "codigo": "0133-4/07",
+    "nome": "Cultivo de maçã"
+  },
+  {
+    "codigo": "0133-4/08",
+    "nome": "Cultivo de mamão"
+  },
+  {
+    "codigo": "0116-4/03",
+    "nome": "Cultivo de mamona"
+  },
+  {
+    "codigo": "0119-9/06",
+    "nome": "Cultivo de mandioca"
+  },
+  {
+    "codigo": "0133-4/10",
+    "nome": "Cultivo de manga"
+  },
+  {
+    "codigo": "0133-4/09",
+    "nome": "Cultivo de maracujá"
+  },
+  {
+    "codigo": "0119-9/08",
+    "nome": "Cultivo de melancia"
+  },
+  {
+    "codigo": "0119-9/07",
+    "nome": "Cultivo de melão"
+  },
+  {
+    "codigo": "0111-3/02",
+    "nome": "Cultivo de milho"
+  },
+  {
+    "codigo": "0121-1/02",
+    "nome": "Cultivo de morango"
+  },
+  {
+    "codigo": "0210-1/06",
+    "nome": "Cultivo de mudas em viveiros florestais"
+  },
+  {
+    "codigo": "0112-1/99",
+    "nome": "Cultivo de outras fibras de lavoura temporária não especificadas anteriormente"
+  },
+  {
+    "codigo": "0116-4/99",
+    "nome": "Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente"
+  },
+  {
+    "codigo": "0139-3/99",
+    "nome": "Cultivo de outras plantas de lavoura permanente não especificadas anteriormente"
+  },
+  {
+    "codigo": "0119-9/99",
+    "nome": "Cultivo de outras plantas de lavoura temporária não especificadas anteriormente"
+  },
+  {
+    "codigo": "0111-3/99",
+    "nome": "Cultivo de outros cereais não especificados anteriormente"
+  },
+  {
+    "codigo": "0133-4/11",
+    "nome": "Cultivo de pêssego"
+  },
+  {
+    "codigo": "0139-3/03",
+    "nome": "Cultivo de pimenta-do-reino"
+  },
+  {
+    "codigo": "0210-1/03",
+    "nome": "Cultivo de pinus"
+  },
+  {
+    "codigo": "0139-3/04",
+    "nome": "Cultivo de plantas para condimento, exceto pimenta-do-reino"
+  },
+  {
+    "codigo": "0139-3/06",
+    "nome": "Cultivo de seringueira"
+  },
+  {
+    "codigo": "0115-6/00",
+    "nome": "Cultivo de soja"
+  },
+  {
+    "codigo": "0210-1/04",
+    "nome": "Cultivo de teca"
+  },
+  {
+    "codigo": "0119-9/09",
+    "nome": "Cultivo de tomate rasteiro"
+  },
+  {
+    "codigo": "0111-3/03",
+    "nome": "Cultivo de trigo"
+  },
+  {
+    "codigo": "0132-6/00",
+    "nome": "Cultivo de uva"
+  },
+  {
+    "codigo": "0322-1/99",
+    "nome": "Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente"
+  },
+  {
+    "codigo": "0321-3/99",
+    "nome": "Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente"
+  },
+  {
+    "codigo": "3211-6/03",
+    "nome": "Cunhagem de moedas e medalhas"
+  },
+  {
+    "codigo": "8599-6/02",
+    "nome": "Cursos de pilotagem"
+  },
+  {
+    "codigo": "8599-6/05",
+    "nome": "Cursos preparatórios para concursos"
+  },
+  {
+    "codigo": "1510-6/00",
+    "nome": "Curtimento e outras preparações de couro"
+  },
+  {
+    "codigo": "7410-2/02",
+    "nome": "Decoração de interiores"
+  },
+  {
+    "codigo": "2399-1/01",
+    "nome": "Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal"
+  },
+  {
+    "codigo": "8422-1/00",
+    "nome": "Defesa"
+  },
+  {
+    "codigo": "8425-6/00",
+    "nome": "Defesa Civil"
+  },
+  {
+    "codigo": "4311-8/01",
+    "nome": "Demolição de edifícios e outras estruturas"
+  },
+  {
+    "codigo": "5211-7/99",
+    "nome": "Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis"
+  },
+  {
+    "codigo": "3900-5/00",
+    "nome": "Descontaminação e outros serviços de gestão de resíduos"
+  },
+  {
+    "codigo": "6201-5/00",
+    "nome": "Desenvolvimento de programas de computador sob encomenda"
+  },
+  {
+    "codigo": "6202-3/00",
+    "nome": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+  },
+  {
+    "codigo": "6203-1/00",
+    "nome": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+  },
+  {
+    "codigo": "7410-2/01",
+    "nome": "Design"
+  },
+  {
+    "codigo": "9329-8/01",
+    "nome": "Discotecas, danceterias, salões de dança e similares"
+  },
+  {
+    "codigo": "5913-8/00",
+    "nome": "Distribuição cinematográfica, de vídeo e de programas de televisão"
+  },
+  {
+    "codigo": "3600-6/02",
+    "nome": "Distribuição de água por caminhões"
+  },
+  {
+    "codigo": "3520-4/02",
+    "nome": "Distribuição de combustíveis gasosos por redes urbanas"
+  },
+  {
+    "codigo": "3514-0/00",
+    "nome": "Distribuição de energia elétrica"
+  },
+  {
+    "codigo": "6612-6/02",
+    "nome": "Distribuidoras de títulos e valores mobiliários"
+  },
+  {
+    "codigo": "5819-1/00",
+    "nome": "Edição de cadastros, listas e outros produtos gráficos"
+  },
+  {
+    "codigo": "5812-3/00",
+    "nome": "Edição de jornais"
+  },
+  {
+    "codigo": "5811-5/00",
+    "nome": "Edição de livros"
+  },
+  {
+    "codigo": "5813-1/00",
+    "nome": "Edição de revistas"
+  },
+  {
+    "codigo": "5829-8/00",
+    "nome": "Edição integrada à impressão de cadastros, listas e outros produtos gráficos"
+  },
+  {
+    "codigo": "5822-1/00",
+    "nome": "Edição integrada à impressão de jornais"
+  },
+  {
+    "codigo": "5821-2/00",
+    "nome": "Edição integrada à impressão de livros"
+  },
+  {
+    "codigo": "5823-9/00",
+    "nome": "Edição integrada à impressão de revistas"
+  },
+  {
+    "codigo": "8511-2/00",
+    "nome": "Educação infantil - creche"
+  },
+  {
+    "codigo": "8512-1/00",
+    "nome": "Educação infantil - pré-escola"
+  },
+  {
+    "codigo": "8541-4/00",
+    "nome": "Educação profissional de nível técnico"
+  },
+  {
+    "codigo": "8542-2/00",
+    "nome": "Educação profissional de nível tecnológico"
+  },
+  {
+    "codigo": "8531-7/00",
+    "nome": "Educação superior - graduação"
+  },
+  {
+    "codigo": "8532-5/00",
+    "nome": "Educação superior - graduação e pós-graduação"
+  },
+  {
+    "codigo": "8533-3/00",
+    "nome": "Educação superior - pós-graduação e extensão"
+  },
+  {
+    "codigo": "2019-3/01",
+    "nome": "Elaboração de combustíveis nucleares"
+  },
+  {
+    "codigo": "8299-7/02",
+    "nome": "Emissão de vales-alimentação, vales-transporte e similares"
+  },
+  {
+    "codigo": "8592-9/99",
+    "nome": "Ensino de arte e cultura não especificado anteriormente"
+  },
+  {
+    "codigo": "8592-9/02",
+    "nome": "Ensino de artes cênicas, exceto dança"
+  },
+  {
+    "codigo": "8592-9/01",
+    "nome": "Ensino de dança"
+  },
+  {
+    "codigo": "8591-1/00",
+    "nome": "Ensino de esportes"
+  },
+  {
+    "codigo": "8593-7/00",
+    "nome": "Ensino de idiomas"
+  },
+  {
+    "codigo": "8592-9/03",
+    "nome": "Ensino de música"
+  },
+  {
+    "codigo": "8513-9/00",
+    "nome": "Ensino fundamental"
+  },
+  {
+    "codigo": "8520-1/00",
+    "nome": "Ensino médio"
+  },
+  {
+    "codigo": "8292-0/00",
+    "nome": "Envasamento e empacotamento sob contrato"
+  },
+  {
+    "codigo": "7490-1/02",
+    "nome": "Escafandria e mergulho"
+  },
+  {
+    "codigo": "5223-1/00",
+    "nome": "Estacionamento de veículos"
+  },
+  {
+    "codigo": "1340-5/01",
+    "nome": "Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário"
+  },
+  {
+    "codigo": "5911-1/01",
+    "nome": "Estúdios cinematográficos"
+  },
+  {
+    "codigo": "9200-3/02",
+    "nome": "Exploração de apostas em corridas de cavalos"
+  },
+  {
+    "codigo": "9329-8/02",
+    "nome": "Exploração de boliches"
+  },
+  {
+    "codigo": "9200-3/99",
+    "nome": "Exploração de jogos de azar e apostas não especificados anteriormente"
+  },
+  {
+    "codigo": "9329-8/03",
+    "nome": "Exploração de jogos de sinuca, bilhar e similares"
+  },
+  {
+    "codigo": "9329-8/04",
+    "nome": "Exploração de jogos eletrônicos recreativos"
+  },
+  {
+    "codigo": "9609-2/04",
+    "nome": "Exploração de máquinas de serviços pessoais acionadas por moeda"
+  },
+  {
+    "codigo": "0899-1/03",
+    "nome": "Extração de amianto"
+  },
+  {
+    "codigo": "0810-0/01",
+    "nome": "Extração de ardósia e beneficiamento associado"
+  },
+  {
+    "codigo": "0810-0/06",
+    "nome": "Extração de areia, cascalho ou pedregulho e beneficiamento associado"
+  },
+  {
+    "codigo": "0810-0/07",
+    "nome": "Extração de argila e beneficiamento associado"
+  },
+  {
+    "codigo": "0810-0/09",
+    "nome": "Extração de basalto e beneficiamento associado"
+  },
+  {
+    "codigo": "0810-0/04",
+    "nome": "Extração de calcário e dolomita e beneficiamento associado"
+  },
+  {
+    "codigo": "0500-3/01",
+    "nome": "Extração de carvão mineral"
+  },
+  {
+    "codigo": "0893-2/00",
+    "nome": "Extração de gemas (pedras preciosas e semipreciosas)"
+  },
+  {
+    "codigo": "0810-0/05",
+    "nome": "Extração de gesso e caulim"
+  },
+  {
+    "codigo": "0899-1/01",
+    "nome": "Extração de grafita"
+  },
+  {
+    "codigo": "0810-0/02",
+    "nome": "Extração de granito e beneficiamento associado"
+  },
+  {
+    "codigo": "0220-9/01",
+    "nome": "Extração de madeira em florestas nativas"
+  },
+  {
+    "codigo": "0210-1/07",
+    "nome": "Extração de madeira em florestas plantadas"
+  },
+  {
+    "codigo": "0810-0/03",
+    "nome": "Extração de mármore e beneficiamento associado"
+  },
+  {
+    "codigo": "0891-6/00",
+    "nome": "Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos"
+  },
+  {
+    "codigo": "0725-1/00",
+    "nome": "Extração de minerais radioativos"
+  },
+  {
+    "codigo": "0721-9/01",
+    "nome": "Extração de minério de alumínio"
+  },
+  {
+    "codigo": "0722-7/01",
+    "nome": "Extração de minério de estanho"
+  },
+  {
+    "codigo": "0710-3/01",
+    "nome": "Extração de minério de ferro"
+  },
+  {
+    "codigo": "0723-5/01",
+    "nome": "Extração de minério de manganês"
+  },
+  {
+    "codigo": "0724-3/01",
+    "nome": "Extração de minério de metais preciosos"
+  },
+  {
+    "codigo": "0729-4/03",
+    "nome": "Extração de minério de níquel"
+  },
+  {
+    "codigo": "0729-4/02",
+    "nome": "Extração de minério de tungstênio"
+  },
+  {
+    "codigo": "0729-4/04",
+    "nome": "Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente"
+  },
+  {
+    "codigo": "0729-4/01",
+    "nome": "Extração de minérios de nióbio e titânio"
+  },
+  {
+    "codigo": "0899-1/99",
+    "nome": "Extração de outros minerais não-metálicos não especificados anteriormente"
+  },
+  {
+    "codigo": "0600-0/01",
+    "nome": "Extração de petróleo e gás natural"
+  },
+  {
+    "codigo": "0899-1/02",
+    "nome": "Extração de quartzo"
+  },
+  {
+    "codigo": "0810-0/08",
+    "nome": "Extração de saibro e beneficiamento associado"
+  },
+  {
+    "codigo": "0892-4/01",
+    "nome": "Extração de sal marinho"
+  },
+  {
+    "codigo": "0892-4/02",
+    "nome": "Extração de sal-gema"
+  },
+  {
+    "codigo": "0600-0/03",
+    "nome": "Extração e beneficiamento de areias betuminosas"
+  },
+  {
+    "codigo": "0600-0/02",
+    "nome": "Extração e beneficiamento de xisto"
+  },
+  {
+    "codigo": "0810-0/99",
+    "nome": "Extração e britamento de pedras e outros materiais para construção e beneficiamento associado"
+  },
+  {
+    "codigo": "2399-1/02",
+    "nome": "Fabricação de abrasivos"
+  },
+  {
+    "codigo": "1742-7/02",
+    "nome": "Fabricação de absorventes higiênicos"
+  },
+  {
+    "codigo": "1414-2/00",
+    "nome": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+  },
+  {
+    "codigo": "1072-4/01",
+    "nome": "Fabricação de açúcar de cana refinado"
+  },
+  {
+    "codigo": "1072-4/02",
+    "nome": "Fabricação de açúcar de cereais (dextrose) e de beterraba"
+  },
+  {
+    "codigo": "1071-6/00",
+    "nome": "Fabricação de açúcar em bruto"
+  },
+  
+  {
+    "codigo": "2091-6/00",
+    "nome": "Fabricação de adesivos e selantes"
+  },
+  {
+    "codigo": "2093-2/00",
+    "nome": "Fabricação de aditivos de uso industrial"
+  },
+  {
+    "codigo": "1099-6/06",
+    "nome": "Fabricação de adoçantes naturais e artificiais"
+  },
+  {
+    "codigo": "2013-4/00",
+    "nome": "Fabricação de adubos e fertilizantes"
+  },
+  {
+    "codigo": "3041-5/00",
+    "nome": "Fabricação de aeronaves"
+  },
+  {
+    "codigo": "1111-9/01",
+    "nome": "Fabricação de aguardente de cana-de-açúcar"
+  },
+  {
+    "codigo": "1121-6/00",
+    "nome": "Fabricação de águas envasadas"
+  },
+  {
+    "codigo": "1931-4/00",
+    "nome": "Fabricação de álcool"
+  },
+  {
+    "codigo": "1099-6/07",
+    "nome": "Fabricação de alimentos dietéticos e complementos alimentares"
+  },
+  {
+    "codigo": "1096-1/00",
+    "nome": "Fabricação de alimentos e pratos prontos"
+  },
+  {
+    "codigo": "1066-0/00",
+    "nome": "Fabricação de alimentos para animais"
+  },
+  {
+    "codigo": "1065-1/01",
+    "nome": "Fabricação de amidos e féculas de vegetais"
+  },
+  {
+    "codigo": "2640-0/00",
+    "nome": "Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo"
+  },
+  {
+    "codigo": "2824-1/01",
+    "nome": "Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial"
+  },
+  {
+    "codigo": "2824-1/02",
+    "nome": "Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial"
+  },
+  {
+    "codigo": "2651-5/00",
+    "nome": "Fabricação de aparelhos e equipamentos de medida, teste e controle"
+  },
+  {
+    "codigo": "2731-7/00",
+    "nome": "Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica"
+  },
+  {
+    "codigo": "3250-7/03",
+    "nome": "Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda"
+  },
+  {
+    "codigo": "3250-7/04",
+    "nome": "Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda"
+  },
+  {
+    "codigo": "2759-7/01",
+    "nome": "Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios"
+  },
+  {
+    "codigo": "2660-4/00",
+    "nome": "Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação"
+  },
+  {
+    "codigo": "2670-1/02",
+    "nome": "Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios"
+  },
+  {
+    "codigo": "2632-9/00",
+    "nome": "Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios"
+  },
+  {
+    "codigo": "2550-1/02",
+    "nome": "Fabricação de armas de fogo, outras armas e munições"
+  },
+  {
+    "codigo": "2219-6/00",
+    "nome": "Fabricação de artefatos de borracha não especificados anteriormente"
+  },
+  {
+    "codigo": "2342-7/02",
+    "nome": "Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos"
+  },
+  {
+    "codigo": "2330-3/02",
+    "nome": "Fabricação de artefatos de cimento para uso na construção"
+  },
+  {
+    "codigo": "1353-7/00",
+    "nome": "Fabricação de artefatos de cordoaria"
+  },
+  {
+    "codigo": "1529-7/00",
+    "nome": "Fabricação de artefatos de couro não especificados anteriormente"
+  },
+  {
+    "codigo": "2330-3/03",
+    "nome": "Fabricação de artefatos de fibrocimento para uso na construção"
+  },
+  {
+    "codigo": "3211-6/02",
+    "nome": "Fabricação de artefatos de joalheria e ourivesaria"
+  },
+  {
+    "codigo": "2229-3/99",
+    "nome": "Fabricação de artefatos de material plástico para outros usos não especificados anteriormente"
+  },
+  {
+    "codigo": "2229-3/03",
+    "nome": "Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios"
+  },
+  {
+    "codigo": "2229-3/01",
+    "nome": "Fabricação de artefatos de material plástico para uso pessoal e doméstico"
+  },
+  {
+    "codigo": "2229-3/02",
+    "nome": "Fabricação de artefatos de material plástico para usos industriais"
+  },
+  {
+    "codigo": "1623-4/00",
+    "nome": "Fabricação de artefatos de tanoaria e de embalagens de madeira"
+  },
+  {
+    "codigo": "1352-9/00",
+    "nome": "Fabricação de artefatos de tapeçaria"
+  },
+  {
+    "codigo": "1629-3/02",
+    "nome": "Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis"
+  },
+  {
+    "codigo": "1629-3/01",
+    "nome": "Fabricação de artefatos diversos de madeira, exceto móveis"
+  },
+  {
+    "codigo": "3230-2/00",
+    "nome": "Fabricação de artefatos para pesca e esporte"
+  },
+  {
+    "codigo": "1351-1/00",
+    "nome": "Fabricação de artefatos têxteis para uso doméstico"
+  },
+  {
+    "codigo": "2541-1/00",
+    "nome": "Fabricação de artigos de cutelaria"
+  },
+  {
+    "codigo": "2593-4/00",
+    "nome": "Fabricação de artigos de metal para uso doméstico e pessoal"
+  },
+  {
+    "codigo": "2542-0/00",
+    "nome": "Fabricação de artigos de serralheria, exceto esquadrias"
+  },
+  {
+    "codigo": "2319-2/00",
+    "nome": "Fabricação de artigos de vidro"
+  },
+  {
+    "codigo": "1422-3/00",
+    "nome": "Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias"
+  },
+  {
+    "codigo": "3250-7/07",
+    "nome": "Fabricação de artigos ópticos"
+  },
+  {
+    "codigo": "1521-1/00",
+    "nome": "Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+  },
+  {
+    "codigo": "2092-4/02",
+    "nome": "Fabricação de artigos pirotécnicos"
+  },
+  {
+    "codigo": "2910-7/01",
+    "nome": "Fabricação de automóveis, camionetas e utilitários"
+  },
+  {
+    "codigo": "3299-0/05",
+    "nome": "Fabricação de aviamentos para costura"
+  },
+  {
+    "codigo": "2342-7/01",
+    "nome": "Fabricação de azulejos e pisos"
+  },
+  {
+    "codigo": "2949-2/01",
+    "nome": "Fabricação de bancos e estofados para veículos automotores"
+  },
+  {
+    "codigo": "2722-8/01",
+    "nome": "Fabricação de baterias e acumuladores para veículos automotores"
+  },
+  {
+    "codigo": "1122-4/04",
+    "nome": "Fabricação de bebidas isotônicas"
+  },
+  {
+    "codigo": "3092-0/00",
+    "nome": "Fabricação de bicicletas e triciclos não-motorizados, peças e acessórios"
+  },
+  {
+    "codigo": "3212-4/00",
+    "nome": "Fabricação de bijuterias e artefatos semelhantes"
+  },
+  {
+    "codigo": "1932-2/00",
+    "nome": "Fabricação de biocombustíveis, exceto álcool"
+  },
+  {
+    "codigo": "1092-9/00",
+    "nome": "Fabricação de biscoitos e bolachas"
+  },
+  {
+    "codigo": "2930-1/01",
+    "nome": "Fabricação de cabines, carrocerias e reboques para caminhões"
+  },
+  {
+    "codigo": "2930-1/03",
+    "nome": "Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus"
+  },
+  {
+    "codigo": "2392-3/00",
+    "nome": "Fabricação de cal e gesso"
+  },
+  {
+    "codigo": "1531-9/01",
+    "nome": "Fabricação de calçados de couro"
+  },
+  {
+    "codigo": "1539-4/00",
+    "nome": "Fabricação de calçados de materiais não especificados anteriormente"
+  },
+  {
+    "codigo": "1533-5/00",
+    "nome": "Fabricação de calçados de material sintético"
+  },
+  {
+    "codigo": "2522-5/00",
+    "nome": "Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos"
+  },
+  {
+    "codigo": "2920-4/01",
+    "nome": "Fabricação de caminhões e ônibus"
+  },
+  {
+    "codigo": "3299-0/02",
+    "nome": "Fabricação de canetas, lápis e outros artigos para escritório"
+  },
+  {
+    "codigo": "2930-1/02",
+    "nome": "Fabricação de carrocerias para ônibus"
+  },
+  {
+    "codigo": "1722-2/00",
+    "nome": "Fabricação de cartolina e papel-cartão"
+  },
+  {
+    "codigo": "1622-6/01",
+    "nome": "Fabricação de casas de madeira pré-fabricadas"
+  },
+  {
+    "codigo": "2330-3/04",
+    "nome": "Fabricação de casas pré-moldadas de concreto"
+  },
+  {
+    "codigo": "2094-1/00",
+    "nome": "Fabricação de catalisadores"
+  },
+  {
+    "codigo": "1710-9/00",
+    "nome": "Fabricação de celulose e outras pastas para a fabricação de papel"
+  },
+  {
+    "codigo": "1113-5/02",
+    "nome": "Fabricação de cervejas e chopes"
+  },
+  {
+    "codigo": "1122-4/02",
+    "nome": "Fabricação de chá mate e outros chás prontos para consumo"
+  },
+  {
+    "codigo": "1733-8/00",
+    "nome": "Fabricação de chapas e de embalagens de papelão ondulado"
+  },
+  {
+    "codigo": "2099-1/01",
+    "nome": "Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia"
+  },
+  {
+    "codigo": "2910-7/02",
+    "nome": "Fabricação de chassis com motor para automóveis, camionetas e utilitários"
+  },
+  {
+    "codigo": "1220-4/02",
+    "nome": "Fabricação de cigarrilhas e charutos"
+  },
+  {
+    "codigo": "1220-4/01",
+    "nome": "Fabricação de cigarros"
+  },
+  {
+    "codigo": "2320-6/00",
+    "nome": "Fabricação de cimento"
+  },
+  {
+    "codigo": "2011-8/00",
+    "nome": "Fabricação de cloro e álcalis"
+  },
+  {
+    "codigo": "3104-7/00",
+    "nome": "Fabricação de colchões"
+  },
+  {
+    "codigo": "2610-8/00",
+    "nome": "Fabricação de componentes eletrônicos"
+  },
+  {
+    "codigo": "2814-3/01",
+    "nome": "Fabricação de compressores para uso industrial, peças e acessórios"
+  },
+  {
+    "codigo": "2814-3/02",
+    "nome": "Fabricação de compressores para uso não-industrial, peças e acessórios"
+  },
+  {
+    "codigo": "1031-7/00",
+    "nome": "Fabricação de conservas de frutas"
+  },
+  {
+    "codigo": "1032-5/99",
+    "nome": "Fabricação de conservas de legumes e outros vegetais, exceto palmito"
+  },
+  {
+    "codigo": "1032-5/01",
+    "nome": "Fabricação de conservas de palmito"
+  },
+  {
+    "codigo": "1020-1/02",
+    "nome": "Fabricação de conservas de peixes, crustáceos e moluscos"
+  },
+  {
+    "codigo": "2063-1/00",
+    "nome": "Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal"
+  },
+  {
+    "codigo": "2652-3/00",
+    "nome": "Fabricação de cronômetros e relógios"
+  },
+  {
+    "codigo": "2051-7/00",
+    "nome": "Fabricação de defensivos agrícolas"
+  },
+  {
+    "codigo": "2052-5/00",
+    "nome": "Fabricação de desinfestantes domissanitários"
+  },
+  {
+    "codigo": "2033-9/00",
+    "nome": "Fabricação de elastômeros"
+  },
+  {
+    "codigo": "2790-2/01",
+    "nome": "Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores"
+  },
+  {
+    "codigo": "1732-0/00",
+    "nome": "Fabricação de embalagens de cartolina e papel-cartão"
+  },
+  {
+    "codigo": "2222-6/00",
+    "nome": "Fabricação de embalagens de material plástico"
+  },
+  {
+    "codigo": "1731-1/00",
+    "nome": "Fabricação de embalagens de papel"
+  },
+  {
+    "codigo": "2312-5/00",
+    "nome": "Fabricação de embalagens de vidro"
+  },
+  {
+    "codigo": "2591-8/00",
+    "nome": "Fabricação de embalagens metálicas"
+  },
+  {
+    "codigo": "2550-1/01",
+    "nome": "Fabricação de equipamento bélico pesado, exceto veículos militares de combate"
+  },
+  {
+    "codigo": "2621-3/00",
+    "nome": "Fabricação de equipamentos de informática"
+  },
+  {
+    "codigo": "2815-1/02",
+    "nome": "Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos"
+  },
+  {
+    "codigo": "3099-7/00",
+    "nome": "Fabricação de equipamentos de transporte não especificados anteriormente"
+  },
+  {
+    "codigo": "3292-2/02",
+    "nome": "Fabricação de equipamentos e acessórios para segurança pessoal e profissional"
+  },
+  {
+    "codigo": "2670-1/01",
+    "nome": "Fabricação de equipamentos e instrumentos ópticos, peças e acessórios"
+  },
+  {
+    "codigo": "2812-7/00",
+    "nome": "Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas"
+  },
+  {
+    "codigo": "2832-1/00",
+    "nome": "Fabricação de equipamentos para irrigação agrícola, peças e acessórios"
+  },
+  {
+    "codigo": "2790-2/02",
+    "nome": "Fabricação de equipamentos para sinalização e alarme"
+  },
+  {
+    "codigo": "2631-1/00",
+    "nome": "Fabricação de equipamentos transmissores de comunicação, peças e acessórios"
+  },
+  {
+    "codigo": "3291-4/00",
+    "nome": "Fabricação de escovas, pincéis e vassouras"
+  },
+  {
+    "codigo": "1095-3/00",
+    "nome": "Fabricação de especiarias, molhos, temperos e condimentos"
+  },
+  {
+    "codigo": "1622-6/02",
+    "nome": "Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais"
+  },
+  {
+    "codigo": "2512-8/00",
+    "nome": "Fabricação de esquadrias de metal"
+  },
+  {
+    "codigo": "2511-0/00",
+    "nome": "Fabricação de estruturas metálicas"
+  },
+  {
+    "codigo": "2330-3/01",
+    "nome": "Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda"
+  },
+  {
+    "codigo": "2821-6/02",
+    "nome": "Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios"
+  },
+  {
+    "codigo": "1063-5/00",
+    "nome": "Fabricação de farinha de mandioca e derivados"
+  },
+  {
+    "codigo": "1064-3/00",
+    "nome": "Fabricação de farinha de milho e derivados, exceto óleos de milho"
+  },
+  {
+    "codigo": "1099-6/03",
+    "nome": "Fabricação de fermentos e leveduras"
+  },
+  {
+    "codigo": "2543-8/00",
+    "nome": "Fabricação de ferramentas"
+  },
+  {
+    "codigo": "2040-1/00",
+    "nome": "Fabricação de fibras artificiais e sintéticas"
+  },
+  {
+    "codigo": "1220-4/03",
+    "nome": "Fabricação de filtros para cigarros"
+  },
+  {
+    "codigo": "2733-3/00",
+    "nome": "Fabricação de fios, cabos e condutores elétricos isolados"
+  },
+  {
+    "codigo": "2751-1/00",
+    "nome": "Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios"
+  },
+  {
+    "codigo": "1741-9/01",
+    "nome": "Fabricação de formulários contínuos"
+  },
+  {
+    "codigo": "2821-6/01",
+    "nome": "Fabricação de fornos industriais, aparelhos e equipamentos não-elétricos para instalações térmicas, peças e acessórios"
+  },
+  {
+    "codigo": "2092-4/03",
+    "nome": "Fabricação de fósforos de segurança"
+  },
+  {
+    "codigo": "1742-7/01",
+    "nome": "Fabricação de fraldas descartáveis"
+  },
+  {
+    "codigo": "1093-7/02",
+    "nome": "Fabricação de frutas cristalizadas, balas e semelhantes"
+  },
+  {
+    "codigo": "2014-2/00",
+    "nome": "Fabricação de gases industriais"
+  },
+  {
+    "codigo": "1099-6/04",
+    "nome": "Fabricação de gelo comum"
+  },
+  {
+    "codigo": "2710-4/01",
+    "nome": "Fabricação de geradores de corrente contínua e alternada, peças e acessórios"
+  },
+  {
+    "codigo": "3299-0/01",
+    "nome": "Fabricação de guarda-chuvas e similares"
+  },
+  {
+    "codigo": "2073-8/00",
+    "nome": "Fabricação de impermeabilizantes, solventes e produtos afins"
+  },
+  {
+    "codigo": "3220-5/00",
+    "nome": "Fabricação de instrumentos musicais, peças e acessórios"
+  },
+  {
+    "codigo": "3250-7/01",
+    "nome": "Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório"
+  },
+  {
+    "codigo": "2012-6/00",
+    "nome": "Fabricação de intermediários para fertilizantes"
+  },
+  {
+    "codigo": "2022-3/00",
+    "nome": "Fabricação de intermediários para plastificantes, resinas e fibras"
+  },
+  {
+    "codigo": "3240-0/01",
+    "nome": "Fabricação de jogos eletrônicos"
+  },
+  {
+    "codigo": "2221-8/00",
+    "nome": "Fabricação de laminados planos e tubulares de material plástico"
+  },
+  {
+    "codigo": "2740-6/01",
+    "nome": "Fabricação de lâmpadas"
+  },
+  {
+    "codigo": "1052-0/00",
+    "nome": "Fabricação de laticínios"
+  },
+  {
+    "codigo": "3299-0/03",
+    "nome": "Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+  },
+  {
+    "codigo": "1314-6/00",
+    "nome": "Fabricação de linhas para costurar e bordar"
+  },
+  {
+    "codigo": "3031-8/00",
+    "nome": "Fabricação de locomotivas, vagões e outros materiais rodantes"
+  },
+  {
+    "codigo": "2740-6/02",
+    "nome": "Fabricação de luminárias e outros equipamentos de iluminação"
+  },
+  {
+    "codigo": "1621-8/00",
+    "nome": "Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada"
+  },
+  {
+    "codigo": "1113-5/01",
+    "nome": "Fabricação de malte, inclusive malte uísque"
+  },
+  {
+    "codigo": "2829-1/01",
+    "nome": "Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios"
+  },
+  {
+    "codigo": "2823-2/00",
+    "nome": "Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios"
+  },
+  {
+    "codigo": "2833-0/00",
+    "nome": "Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação"
+  },
+  {
+    "codigo": "2866-6/00",
+    "nome": "Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios"
+  },
+  {
+    "codigo": "2863-1/00",
+    "nome": "Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios"
+  },
+  {
+    "codigo": "2851-8/00",
+    "nome": "Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios"
+  },
+  {
+    "codigo": "2862-3/00",
+    "nome": "Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios"
+  },
+  {
+    "codigo": "2865-8/00",
+    "nome": "Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios"
+  },
+  {
+    "codigo": "2864-0/00",
+    "nome": "Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios"
+  },
+  {
+    "codigo": "2825-9/00",
+    "nome": "Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios"
+  },
+  {
+    "codigo": "2854-2/00",
+    "nome": "Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores"
+  },
+  {
+    "codigo": "2869-1/00",
+    "nome": "Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios"
+  },
+  {
+    "codigo": "2861-5/00",
+    "nome": "Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta"
+  },
+  {
+    "codigo": "2840-2/00",
+    "nome": "Fabricação de máquinas-ferramenta, peças e acessórios"
+  },
+  {
+    "codigo": "2822-4/02",
+    "nome": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios"
+  },
+  {
+    "codigo": "2822-4/01",
+    "nome": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios"
+  },
+  {
+    "codigo": "1043-1/00",
+    "nome": "Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais"
+  },
+  {
+    "codigo": "1094-5/00",
+    "nome": "Fabricação de massas alimentícias"
+  },
+  {
+    "codigo": "3250-7/05",
+    "nome": "Fabricação de materiais para medicina e odontologia"
+  },
+  {
+    "codigo": "2945-0/00",
+    "nome": "Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias"
+  },
+  {
+    "codigo": "2732-5/00",
+    "nome": "Fabricação de material elétrico para instalações em circuito de consumo"
+  },
+  {
+    "codigo": "2349-4/01",
+    "nome": "Fabricação de material sanitário de cerâmica"
+  },
+  {
+    "codigo": "2121-1/01",
+    "nome": "Fabricação de medicamentos alopáticos para uso humano"
+  },
+  {
+    "codigo": "2121-1/03",
+    "nome": "Fabricação de medicamentos fitoterápicos para uso humano"
+  },
+  {
+    "codigo": "2121-1/02",
+    "nome": "Fabricação de medicamentos homeopáticos para uso humano"
+  },
+  {
+    "codigo": "2122-0/00",
+    "nome": "Fabricação de medicamentos para uso veterinário"
+  },
+  {
+    "codigo": "1421-5/00",
+    "nome": "Fabricação de meias"
+  },
+  {
+    "codigo": "3240-0/03",
+    "nome": "Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação"
+  },
+  {
+    "codigo": "3240-0/02",
+    "nome": "Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação"
+  },
+  {
+    "codigo": "2680-9/00",
+    "nome": "Fabricação de mídias virgens, magnéticas e ópticas"
+  },
+  {
+    "codigo": "3250-7/02",
+    "nome": "Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório"
+  },
+  {
+    "codigo": "3091-1/01",
+    "nome": "Fabricação de motocicletas"
+  },
+  {
+    "codigo": "2811-9/00",
+    "nome": "Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários"
+  },
+  {
+    "codigo": "2710-4/03",
+    "nome": "Fabricação de motores elétricos, peças e acessórios"
+  },
+  {
+    "codigo": "2910-7/03",
+    "nome": "Fabricação de motores para automóveis, camionetas e utilitários"
+  },
+  {
+    "codigo": "2920-4/02",
+    "nome": "Fabricação de motores para caminhões e ônibus"
+  },
+  {
+    "codigo": "3101-2/00",
+    "nome": "Fabricação de móveis com predominância de madeira"
+  },
+  {
+    "codigo": "3102-1/00",
+    "nome": "Fabricação de móveis com predominância de metal"
+  },
+  {
+    "codigo": "3103-9/00",
+    "nome": "Fabricação de móveis de outros materiais, exceto madeira e metal"
+  },
+  {
+    "codigo": "2513-6/00",
+    "nome": "Fabricação de obras de caldeiraria pesada"
+  },
+  {
+    "codigo": "1065-1/02",
+    "nome": "Fabricação de óleo de milho em bruto"
+  },
+  {
+    "codigo": "1065-1/03",
+    "nome": "Fabricação de óleo de milho refinado"
+  },
+  {
+    "codigo": "1041-4/00",
+    "nome": "Fabricação de óleos vegetais em bruto, exceto óleo de milho"
+  },
+  {
+    "codigo": "1042-2/00",
+    "nome": "Fabricação de óleos vegetais refinados, exceto óleo de milho"
+  },
+  {
+    "codigo": "1111-9/02",
+    "nome": "Fabricação de outras aguardentes e bebidas destiladas"
+  },
+  {
+    "codigo": "1122-4/99",
+    "nome": "Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente"
+  },
+  {
+    "codigo": "2829-1/99",
+    "nome": "Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios"
+  },
+  {
+    "codigo": "2852-6/00",
+    "nome": "Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo"
+  },
+  {
+    "codigo": "2949-2/99",
+    "nome": "Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente"
+  },
+  {
+    "codigo": "2759-7/99",
+    "nome": "Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios"
+  },
+  {
+    "codigo": "2330-3/99",
+    "nome": "Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+  },
+  {
+    "codigo": "1622-6/99",
+    "nome": "Fabricação de outros artigos de carpintaria para construção"
+  },
+  {
+    "codigo": "3240-0/99",
+    "nome": "Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente"
+  },
+  {
+    "codigo": "2790-2/99",
+    "nome": "Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente"
+  },
+  {
+    "codigo": "1099-6/99",
+    "nome": "Fabricação de outros produtos alimentícios não especificados anteriormente"
+  },
+  {
+    "codigo": "2599-3/99",
+    "nome": "Fabricação de outros produtos de metal não especificados anteriormente"
+  },
+  {
+    "codigo": "2399-1/99",
+    "nome": "Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente"
+  },
+  {
+    "codigo": "1922-5/99",
+    "nome": "Fabricação de outros produtos derivados do petróleo, exceto produtos do refino"
+  },
+  {
+    "codigo": "1220-4/99",
+    "nome": "Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos"
+  },
+  {
+    "codigo": "2019-3/99",
+    "nome": "Fabricação de outros produtos químicos inorgânicos não especificados anteriormente"
+  },
+  {
+    "codigo": "2099-1/99",
+    "nome": "Fabricação de outros produtos químicos não especificados anteriormente"
+  },
+  {
+    "codigo": "1359-6/00",
+    "nome": "Fabricação de outros produtos têxteis não especificados anteriormente"
+  },
+  {
+    "codigo": "3299-0/04",
+    "nome": "Fabricação de painéis e letreiros luminosos"
+  },
+  {
+    "codigo": "1721-4/00",
+    "nome": "Fabricação de papel"
+  },
+  {
+    "codigo": "1540-8/00",
+    "nome": "Fabricação de partes para calçados, de qualquer material"
+  },
+  {
+    "codigo": "3091-1/02",
+    "nome": "Fabricação de peças e acessórios para motocicletas"
+  },
+  {
+    "codigo": "2944-1/00",
+    "nome": "Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores"
+  },
+  {
+    "codigo": "2943-3/00",
+    "nome": "Fabricação de peças e acessórios para o sistema de freios de veículos automotores"
+  },
+  {
+    "codigo": "2941-7/00",
+    "nome": "Fabricação de peças e acessórios para o sistema motor de veículos automotores"
+  },
+  {
+    "codigo": "2942-5/00",
+    "nome": "Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores"
+  },
+  {
+    "codigo": "3032-6/00",
+    "nome": "Fabricação de peças e acessórios para veículos ferroviários"
+  },
+  {
+    "codigo": "2622-1/00",
+    "nome": "Fabricação de periféricos para equipamentos de informática"
+  },
+  {
+    "codigo": "2721-0/00",
+    "nome": "Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores"
+  },
+  {
+    "codigo": "2211-1/00",
+    "nome": "Fabricação de pneumáticos e de câmaras-de-ar"
+  },
+  {
+    "codigo": "2092-4/01",
+    "nome": "Fabricação de pólvoras, explosivos e detonantes"
+  },
+  {
+    "codigo": "1099-6/02",
+    "nome": "Fabricação de pós alimentícios"
+  },
+  {
+    "codigo": "2123-8/00",
+    "nome": "Fabricação de preparações farmacêuticas"
+  },
+  {
+    "codigo": "1082-1/00",
+    "nome": "Fabricação de produtos à base de café"
+  },
+  {
+    "codigo": "2349-4/99",
+    "nome": "Fabricação de produtos cerâmicos não-refratários não especificados anteriormente"
+  },
+  {
+    "codigo": "2341-9/00",
+    "nome": "Fabricação de produtos cerâmicos refratários"
+  },
+  {
+    "codigo": "1013-9/01",
+    "nome": "Fabricação de produtos de carne"
+  },
+  {
+    "codigo": "2062-2/00",
+    "nome": "Fabricação de produtos de limpeza e polimento"
+  },
+  {
+    "codigo": "1091-1/02",
+    "nome": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+  },
+  {
+    "codigo": "1091-1/01",
+    "nome": "Fabricação de produtos de panificação industrial"
+  },
+  {
+    "codigo": "1742-7/99",
+    "nome": "Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente"
+  },
+  {
+    "codigo": "1741-9/02",
+    "nome": "Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório, exceto formulário contínuo"
+  },
+  {
+    "codigo": "1749-4/00",
+    "nome": "Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente"
+  },
+  {
+    "codigo": "2592-6/01",
+    "nome": "Fabricação de produtos de trefilados de metal padronizados"
+  },
+  {
+    "codigo": "2592-6/02",
+    "nome": "Fabricação de produtos de trefilados de metal, exceto padronizados"
+  },
+  {
+    "codigo": "1093-7/01",
+    "nome": "Fabricação de produtos derivados do cacau e de chocolates"
+  },
+  {
+    "codigo": "3299-0/99",
+    "nome": "Fabricação de produtos diversos não especificados anteriormente"
+  },
+  {
+    "codigo": "1061-9/02",
+    "nome": "Fabricação de produtos do arroz"
+  },
+  {
+    "codigo": "1921-7/00",
+    "nome": "Fabricação de produtos do refino de petróleo"
+  },
+  {
+    "codigo": "2110-6/00",
+    "nome": "Fabricação de produtos farmoquímicos"
+  },
+  {
+    "codigo": "1099-6/05",
+    "nome": "Fabricação de produtos para infusão (chá, mate, etc.)"
+  },
+  {
+    "codigo": "2021-5/00",
+    "nome": "Fabricação de produtos petroquímicos básicos"
+  },
+  {
+    "codigo": "2029-1/00",
+    "nome": "Fabricação de produtos químicos orgânicos não especificados anteriormente"
+  },
+  {
+    "codigo": "1122-4/03",
+    "nome": "Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas"
+  },
+  {
+    "codigo": "1122-4/01",
+    "nome": "Fabricação de refrigerantes"
+  },
+  {
+    "codigo": "2032-1/00",
+    "nome": "Fabricação de resinas termofixas"
+  },
+  {
+    "codigo": "2031-2/00",
+    "nome": "Fabricação de resinas termoplásticas"
+  },
+  {
+    "codigo": "2815-1/01",
+    "nome": "Fabricação de rolamentos para fins industriais"
+  },
+  {
+    "codigo": "3292-2/01",
+    "nome": "Fabricação de roupas de proteção e segurança e resistentes a fogo"
+  },
+  {
+    "codigo": "2061-4/00",
+    "nome": "Fabricação de sabões e detergentes sintéticos"
+  },
+  {
+    "codigo": "1053-8/00",
+    "nome": "Fabricação de sorvetes e outros gelados comestíveis"
+  },
+  {
+    "codigo": "1033-3/01",
+    "nome": "Fabricação de sucos concentrados de frutas, hortaliças e legumes"
+  },
+  {
+    "codigo": "1033-3/02",
+    "nome": "Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados"
+  },
+  {
+    "codigo": "2521-7/00",
+    "nome": "Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central"
+  },
+  {
+    "codigo": "1330-8/00",
+    "nome": "Fabricação de tecidos de malha"
+  },
+  {
+    "codigo": "1354-5/00",
+    "nome": "Fabricação de tecidos especiais, inclusive artefatos"
+  },
+  {
+    "codigo": "1532-7/00",
+    "nome": "Fabricação de tênis de qualquer material"
+  },
+  {
+    "codigo": "2072-0/00",
+    "nome": "Fabricação de tintas de impressão"
+  },
+  {
+    "codigo": "2071-1/00",
+    "nome": "Fabricação de tintas, vernizes, esmaltes e lacas"
+  },
+  {
+    "codigo": "2710-4/02",
+    "nome": "Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios"
+  },
+  {
+    "codigo": "2831-3/00",
+    "nome": "Fabricação de tratores agrícolas, peças e acessórios"
+  },
+  {
+    "codigo": "2853-4/00",
+    "nome": "Fabricação de tratores, peças e acessórios, exceto agrícolas"
+  },
+  {
+    "codigo": "2223-4/00",
+    "nome": "Fabricação de tubos e acessórios de material plástico para uso na construção"
+  },
+  {
+    "codigo": "3042-3/00",
+    "nome": "Fabricação de turbinas, motores e outros componentes e peças para aeronaves"
+  },
+  {
+    "codigo": "2813-5/00",
+    "nome": "Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios"
+  },
+  {
+    "codigo": "3050-4/00",
+    "nome": "Fabricação de veículos militares de combate"
+  },
+  {
+    "codigo": "3299-0/06",
+    "nome": "Fabricação de velas, inclusive decorativas"
+  },
+  {
+    "codigo": "2311-7/00",
+    "nome": "Fabricação de vidro plano e de segurança"
+  },
+  {
+    "codigo": "1099-6/01",
+    "nome": "Fabricação de vinagres"
+  },
+  {
+    "codigo": "1112-7/00",
+    "nome": "Fabricação de vinho"
+  },
+  {
+    "codigo": "1412-6/03",
+    "nome": "Facção de peças do vestuário, exceto roupas íntimas"
+  },
+  {
+    "codigo": "1411-8/02",
+    "nome": "Facção de roupas íntimas"
+  },
+  {
+    "codigo": "1413-4/03",
+    "nome": "Facção de roupas profissionais"
+  },
+  {
+    "codigo": "1313-8/00",
+    "nome": "Fiação de fibras artificiais e sintéticas"
+  },
+  {
+    "codigo": "7420-0/04",
+    "nome": "Filmagem de festas e eventos"
+  },
+  {
+    "codigo": "8599-6/01",
+    "nome": "Formação de condutores"
+  },
+  {
+    "codigo": "1922-5/01",
+    "nome": "Formulação de combustíveis"
+  },
+  {
+    "codigo": "5620-1/04",
+    "nome": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+  },
+  {
+    "codigo": "5620-1/01",
+    "nome": "Fornecimento de alimentos preparados preponderantemente para empresas"
+  },
+  {
+    "codigo": "7830-2/00",
+    "nome": "Fornecimento e gestão de recursos humanos para terceiros"
+  },
+  {
+    "codigo": "8219-9/01",
+    "nome": "Fotocópias"
+  },
+  {
+    "codigo": "1011-2/01",
+    "nome": "Frigorífico - abate de bovinos"
+  },
+  {
+    "codigo": "1011-2/04",
+    "nome": "Frigorífico - abate de bufalinos"
+  },
+  {
+    "codigo": "1011-2/02",
+    "nome": "Frigorífico - abate de eqüinos"
+  },
+  {
+    "codigo": "1011-2/03",
+    "nome": "Frigorífico - abate de ovinos e caprinos"
+  },
+  {
+    "codigo": "1012-1/03",
+    "nome": "Frigorífico - abate de suínos"
+  },
+  {
+    "codigo": "2451-2/00",
+    "nome": "Fundição de ferro e aço"
+  },
+  {
+    "codigo": "2452-1/00",
+    "nome": "Fundição de metais não-ferrosos e suas ligas"
+  },
+  {
+    "codigo": "6499-9/03",
+    "nome": "Fundo garantidor de crédito"
+  },
+  {
+    "codigo": "6470-1/03",
+    "nome": "Fundos de investimento imobiliários"
+  },
+  {
+    "codigo": "6470-1/02",
+    "nome": "Fundos de investimento previdenciários"
+  },
+  {
+    "codigo": "6470-1/01",
+    "nome": "Fundos de investimento, exceto previdenciários e imobiliários"
+  },
+  {
+    "codigo": "3511-5/01",
+    "nome": "Geração de energia elétrica"
+  },
+  {
+    "codigo": "9003-5/00",
+    "nome": "Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas"
+  },
+  {
+    "codigo": "9311-5/00",
+    "nome": "Gestão de instalações de esportes"
+  },
+  {
+    "codigo": "3701-1/00",
+    "nome": "Gestão de redes de esgoto"
+  },
+  {
+    "codigo": "7740-3/00",
+    "nome": "Gestão de ativos intangíveis não-financeiros"
+  },
+  {
+    "codigo": "6822-6/00",
+    "nome": "Gestão e administração da propriedade imobiliária"
+  },
+  {
+    "codigo": "9603-3/01",
+    "nome": "Gestão e manutenção de cemitérios"
+  },
+  {
+    "codigo": "5211-7/02",
+    "nome": "Guarda-móveis"
+  },
+  {
+    "codigo": "6461-1/00",
+    "nome": "Holdings de instituições financeiras"
+  },
+  {
+    "codigo": "6462-0/00",
+    "nome": "Holdings de instituições não-financeiras"
+  },
+  {
+    "codigo": "0121-1/01",
+    "nome": "Horticultura, exceto morango"
+  },
+  {
+    "codigo": "5510-8/01",
+    "nome": "Hotéis"
+  },
+  {
+    "codigo": "4330-4/01",
+    "nome": "Impermeabilização em obras de engenharia civil"
+  },
+  {
+    "codigo": "1811-3/01",
+    "nome": "Impressão de jornais"
+  },
+  {
+    "codigo": "1811-3/02",
+    "nome": "Impressão de livros, revistas e outras publicações periódicas"
+  },
+  {
+    "codigo": "1812-1/00",
+    "nome": "Impressão de material de segurança"
+  },
+  {
+    "codigo": "1813-0/99",
+    "nome": "Impressão de material para outros usos"
+  },
+  {
+    "codigo": "1813-0/01",
+    "nome": "Impressão de material para uso publicitário"
+  },
+  {
+    "codigo": "8122-2/00",
+    "nome": "Imunização e controle de pragas urbanas"
+  },
+  {
+    "codigo": "4110-7/00",
+    "nome": "Incorporação de empreendimentos imobiliários"
+  },
+  {
+    "codigo": "4329-1/02",
+    "nome": "Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+  },
+  {
+    "codigo": "3321-0/00",
+    "nome": "Instalação de máquinas e equipamentos industriais"
+  },
+  {
+    "codigo": "3329-5/99",
+    "nome": "Instalação de outros equipamentos não especificados anteriormente"
+  },
+  {
+    "codigo": "4329-1/01",
+    "nome": "Instalação de painéis publicitários"
+  },
+  {
+    "codigo": "4330-4/02",
+    "nome": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+  },
+  {
+    "codigo": "4322-3/02",
+    "nome": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+  },
+  {
+    "codigo": "4321-5/00",
+    "nome": "Instalação e manutenção elétrica"
+  },
+  {
+    "codigo": "4329-1/03",
+    "nome": "Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+  },
+  {
+    "codigo": "4322-3/03",
+    "nome": "Instalações de sistema de prevenção contra incêndio"
+  },
+  {
+    "codigo": "4322-3/01",
+    "nome": "Instalações hidráulicas, sanitárias e de gás"
+  },
+  {
+    "codigo": "8711-5/02",
+    "nome": "Instituições de longa permanência para idosos"
+  },
+  {
+    "codigo": "8423-0/00",
+    "nome": "Justiça"
+  },
+  {
+    "codigo": "8640-2/02",
+    "nome": "Laboratórios clínicos"
+  },
+  {
+    "codigo": "8640-2/01",
+    "nome": "Laboratórios de anatomia patológica e citológica"
+  },
+  {
+    "codigo": "7420-0/03",
+    "nome": "Laboratórios fotográficos"
+  },
+  {
+    "codigo": "5611-2/03",
+    "nome": "Lanchonetes, casas de chá, de sucos e similares"
+  },
+  {
+    "codigo": "3211-6/01",
+    "nome": "Lapidação de gemas"
+  },
+  {
+    "codigo": "9601-7/01",
+    "nome": "Lavanderias"
+  },
+  {
+    "codigo": "8299-7/04",
+    "nome": "Leiloeiros independentes"
+  },
+  {
+    "codigo": "8121-4/00",
+    "nome": "Limpeza em prédios e em domicílios"
+  },
+  {
+    "codigo": "7719-5/02",
+    "nome": "Locação de aeronaves sem tripulação"
+  },
+  {
+    "codigo": "7711-0/00",
+    "nome": "Locação de automóveis sem condutor"
+  },
+  {
+    "codigo": "7719-5/01",
+    "nome": "Locação de embarcações sem tripulação, exceto para fins recreativos"
+  },
+  {
+    "codigo": "7820-5/00",
+    "nome": "Locação de mão-de-obra temporária"
+  },
+  {
+    "codigo": "7719-5/99",
+    "nome": "Locação de outros meios de transporte não especificados anteriormente, sem condutor"
+  },
+  {
+    "codigo": "4713-0/01",
+    "nome": "Lojas de departamentos ou magazines"
+  },
+  {
+    "codigo": "4713-0/02",
+    "nome": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+  },
+  {
+    "codigo": "4713-0/03",
+    "nome": "Lojas duty free de aeroportos internacionais"
+  },
+  {
+    "codigo": "6810-2/03",
+    "nome": "Loteamento de imóveis próprios"
+  },
+  {
+    "codigo": "3316-3/02",
+    "nome": "Manutenção de aeronaves na pista"
+  },
+  {
+    "codigo": "4221-9/05",
+    "nome": "Manutenção de estações e redes de telecomunicações"
+  },
+  {
+    "codigo": "4221-9/03",
+    "nome": "Manutenção de redes de distribuição de energia elétrica"
+  },
+  {
+    "codigo": "3316-3/01",
+    "nome": "Manutenção e reparação de aeronaves, exceto a manutenção na pista"
+  },
+  {
+    "codigo": "3312-1/02",
+    "nome": "Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle"
+  },
+  {
+    "codigo": "3312-1/03",
+    "nome": "Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação"
+  },
+  {
+    "codigo": "3313-9/02",
+    "nome": "Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos"
+  },
+  {
+    "codigo": "3314-7/04",
+    "nome": "Manutenção e reparação de compressores"
+  },
+  {
+    "codigo": "3317-1/01",
+    "nome": "Manutenção e reparação de embarcações e estruturas flutuantes"
+  },
+  {
+    "codigo": "3317-1/02",
+    "nome": "Manutenção e reparação de embarcações para esporte e lazer"
+  },
+  {
+    "codigo": "3314-7/05",
+    "nome": "Manutenção e reparação de equipamentos de transmissão para fins industriais"
+  },
+  {
+    "codigo": "3312-1/04",
+    "nome": "Manutenção e reparação de equipamentos e instrumentos ópticos"
+  },
+  {
+    "codigo": "3319-8/00",
+    "nome": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+  },
+  {
+    "codigo": "3314-7/02",
+    "nome": "Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas"
+  },
+  {
+    "codigo": "3313-9/01",
+    "nome": "Manutenção e reparação de geradores, transformadores e motores elétricos"
+  },
+  {
+    "codigo": "3314-7/09",
+    "nome": "Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos para escritório"
+  },
+  {
+    "codigo": "3314-7/07",
+    "nome": "Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial"
+  },
+  {
+    "codigo": "3314-7/21",
+    "nome": "Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos"
+  },
+  {
+    "codigo": "3314-7/22",
+    "nome": "Manutenção e reparação de máquinas e aparelhos para a indústria do plástico"
+  },
+  {
+    "codigo": "3314-7/17",
+    "nome": "Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores"
+  },
+  {
+    "codigo": "3314-7/20",
+    "nome": "Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados"
+  },
+  {
+    "codigo": "3314-7/14",
+    "nome": "Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo"
+  },
+  {
+    "codigo": "3314-7/11",
+    "nome": "Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária"
+  },
+  {
+    "codigo": "3314-7/19",
+    "nome": "Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo"
+  },
+  {
+    "codigo": "3314-7/10",
+    "nome": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+  },
+  {
+    "codigo": "3314-7/15",
+    "nome": "Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo"
+  },
+  {
+    "codigo": "3314-7/01",
+    "nome": "Manutenção e reparação de máquinas motrizes não-elétricas"
+  },
+  {
+    "codigo": "3314-7/18",
+    "nome": "Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta"
+  },
+  {
+    "codigo": "3314-7/13",
+    "nome": "Manutenção e reparação de máquinas-ferramenta"
+  },
+  {
+    "codigo": "3314-7/06",
+    "nome": "Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas"
+  },
+  {
+    "codigo": "3313-9/99",
+    "nome": "Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente"
+  },
+  {
+    "codigo": "3314-7/08",
+    "nome": "Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas"
+  },
+  {
+    "codigo": "4543-9/00",
+    "nome": "Manutenção e reparação de motocicletas e motonetas"
+  },
+  {
+    "codigo": "3314-7/99",
+    "nome": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+  },
+  {
+    "codigo": "3311-2/00",
+    "nome": "Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos"
+  },
+  {
+    "codigo": "3314-7/12",
+    "nome": "Manutenção e reparação de tratores agrícolas"
+  },
+  {
+    "codigo": "3314-7/16",
+    "nome": "Manutenção e reparação de tratores, exceto agrícolas"
+  },
+  {
+    "codigo": "3314-7/03",
+    "nome": "Manutenção e reparação de válvulas industriais"
+  },
+  {
+    "codigo": "3315-5/00",
+    "nome": "Manutenção e reparação de veículos ferroviários"
+  },
+  {
+    "codigo": "7319-0/03",
+    "nome": "Marketing direto"
+  },
+  {
+    "codigo": "1011-2/05",
+    "nome": "Matadouro - abate de reses sob contrato, exceto abate de suínos"
+  },
+  {
+    "codigo": "1012-1/04",
+    "nome": "Matadouro - abate de suínos sob contrato"
+  },
+  {
+    "codigo": "8299-7/01",
+    "nome": "Medição de consumo de energia elétrica, gás e água"
+  },
+  {
+    "codigo": "2449-1/99",
+    "nome": "Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente"
+  },
+  {
+    "codigo": "2443-1/00",
+    "nome": "Metalurgia do cobre"
+  },
+  {
+    "codigo": "2532-2/02",
+    "nome": "Metalurgia do pó"
+  },
+  {
+    "codigo": "2442-3/00",
+    "nome": "Metalurgia dos metais preciosos"
+  },
+  {
+    "codigo": "1062-7/00",
+    "nome": "Moagem de trigo e fabricação de derivados"
+  },
+  {
+    "codigo": "1069-4/00",
+    "nome": "Moagem e fabricação de produtos de origem vegetal não especificados anteriormente"
+  },
+  {
+    "codigo": "4292-8/01",
+    "nome": "Montagem de estruturas metálicas"
+  },
+  {
+    "codigo": "4399-1/02",
+    "nome": "Montagem e desmontagem de andaimes e outras estruturas temporárias"
+  },
+  {
+    "codigo": "4329-1/04",
+    "nome": "Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+  },
+  {
+    "codigo": "5510-8/03",
+    "nome": "Motéis"
+  },
+  {
+    "codigo": "5030-1/01",
+    "nome": "Navegação de apoio marítimo"
+  },
+  {
+    "codigo": "5030-1/02",
+    "nome": "Navegação de apoio portuário"
+  },
+  {
+    "codigo": "4330-4/03",
+    "nome": "Obras de acabamento em gesso e estuque"
+  },
+  {
+    "codigo": "4399-1/03",
+    "nome": "Obras de alvenaria"
+  },
+  {
+    "codigo": "4391-6/00",
+    "nome": "Obras de fundações"
+  },
+  {
+    "codigo": "4222-7/02",
+    "nome": "Obras de irrigação"
+  },
+  {
+    "codigo": "4292-8/02",
+    "nome": "Obras de montagem industrial"
+  },
+  {
+    "codigo": "4313-4/00",
+    "nome": "Obras de terraplenagem"
+  },
+  {
+    "codigo": "4213-8/00",
+    "nome": "Obras de urbanização - ruas, praças e calçadas"
+  },
+  {
+    "codigo": "4291-0/00",
+    "nome": "Obras portuárias, marítimas e fluviais"
+  },
+  {
+    "codigo": "5240-1/01",
+    "nome": "Operação dos aeroportos e campos de aterrissagem"
+  },
+  {
+    "codigo": "5231-1/02",
+    "nome": "Operações de terminais"
+  },
+  {
+    "codigo": "5250-8/05",
+    "nome": "Operador de transporte multimodal - OTM"
+  },
+  {
+    "codigo": "6619-3/05",
+    "nome": "Operadoras de cartões de débito"
+  },
+  {
+    "codigo": "6141-8/00",
+    "nome": "Operadoras de televisão por assinatura por cabo"
+  },
+  {
+    "codigo": "6142-6/00",
+    "nome": "Operadoras de televisão por assinatura por microondas"
+  },
+  {
+    "codigo": "6143-4/00",
+    "nome": "Operadoras de televisão por assinatura por satélite"
+  },
+  {
+    "codigo": "7912-1/00",
+    "nome": "Operadores turísticos"
+  },
+  {
+    "codigo": "8730-1/01",
+    "nome": "Orfanatos"
+  },
+  {
+    "codigo": "9900-8/00",
+    "nome": "Organismos internacionais e outras instituições extraterritoriais"
+  },
+  {
+    "codigo": "4929-9/04",
+    "nome": "Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional"
+  },
+  {
+    "codigo": "4929-9/03",
+    "nome": "Organização de excursões em veículos rodoviários próprios, municipal"
+  },
+  {
+    "codigo": "5250-8/04",
+    "nome": "Organização logística do transporte de carga"
+  },
+  {
+    "codigo": "6619-3/99",
+    "nome": "Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente"
+  },
+  {
+    "codigo": "5229-0/99",
+    "nome": "Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente"
+  },
+  {
+    "codigo": "8690-9/99",
+    "nome": "Outras atividades de atenção à saúde humana não especificadas anteriormente"
+  },
+  {
+    "codigo": "8599-6/99",
+    "nome": "Outras atividades de ensino não especificadas anteriormente"
+  },
+  {
+    "codigo": "6399-2/00",
+    "nome": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+  },
+  {
+    "codigo": "7319-0/99",
+    "nome": "Outras atividades de publicidade não especificadas anteriormente"
+  },
+  {
+    "codigo": "9329-8/99",
+    "nome": "Outras atividades de recreação e lazer não especificadas anteriormente"
+  },
+  {
+    "codigo": "6499-9/99",
+    "nome": "Outras atividades de serviços financeiros não especificadas anteriormente"
+  },
+  {
+    "codigo": "9609-2/99",
+    "nome": "Outras atividades de serviços pessoais não especificadas anteriormente"
+  },
+  {
+    "codigo": "8299-7/99",
+    "nome": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+  },
+  {
+    "codigo": "6190-6/99",
+    "nome": "Outras atividades de telecomunicações não especificadas anteriormente"
+  },
+  {
+    "codigo": "9319-1/99",
+    "nome": "Outras atividades esportivas não especificadas anteriormente"
+  },
+  {
+    "codigo": "7490-1/99",
+    "nome": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+  },
+  {
+    "codigo": "6438-7/99",
+    "nome": "Outras instituições de intermediação não-monetária não especificadas anteriormente"
+  },
+  {
+    "codigo": "4330-4/99",
+    "nome": "Outras obras de acabamento da construção"
+  },
+  {
+    "codigo": "4299-5/99",
+    "nome": "Outras obras de engenharia civil não especificadas anteriormente"
+  },
+  {
+    "codigo": "4329-1/99",
+    "nome": "Outras obras de instalações em construções não especificadas anteriormente"
+  },
+  {
+    "codigo": "6463-8/00",
+    "nome": "Outras sociedades de participação, exceto holdings"
+  },
+  {
+    "codigo": "5590-6/99",
+    "nome": "Outros alojamentos não especificados anteriormente"
+  },
+  {
+    "codigo": "4618-4/99",
+    "nome": "Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente"
+  },
+  {
+    "codigo": "1340-5/99",
+    "nome": "Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário"
+  },
+  {
+    "codigo": "5112-9/99",
+    "nome": "Outros serviços de transporte aéreo de passageiros não-regular"
+  },
+  {
+    "codigo": "5099-8/99",
+    "nome": "Outros transportes aquaviários não especificados anteriormente"
+  },
+  {
+    "codigo": "4929-9/99",
+    "nome": "Outros transportes rodoviários de passageiros não especificados anteriormente"
+  },
+  {
+    "codigo": "4721-1/02",
+    "nome": "Padaria e confeitaria com predominância de revenda"
+  },
+  {
+    "codigo": "9321-2/00",
+    "nome": "Parques de diversão e parques temáticos"
+  },
+  {
+    "codigo": "4722-9/02",
+    "nome": "Peixaria"
+  },
+  {
+    "codigo": "0710-3/02",
+    "nome": "Pelotização, sinterização e outros beneficiamentos de minério de ferro"
+  },
+  {
+    "codigo": "5590-6/03",
+    "nome": "Pensões (alojamento)"
+  },
+  {
+    "codigo": "4399-1/05",
+    "nome": "Perfuração e construção de poços de água"
+  },
+  {
+    "codigo": "4312-6/00",
+    "nome": "Perfurações e sondagens"
+  },
+  {
+    "codigo": "6621-5/01",
+    "nome": "Peritos e avaliadores de seguros"
+  },
+  {
+    "codigo": "0312-4/02",
+    "nome": "Pesca de crustáceos e moluscos em água doce"
+  },
+  {
+    "codigo": "0311-6/02",
+    "nome": "Pesca de crustáceos e moluscos em água salgada"
+  },
+  {
+    "codigo": "0312-4/01",
+    "nome": "Pesca de peixes em água doce"
+  },
+  {
+    "codigo": "0311-6/01",
+    "nome": "Pesca de peixes em água salgada"
+  },
+  {
+    "codigo": "7210-0/00",
+    "nome": "Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+  },
+  {
+    "codigo": "7220-7/00",
+    "nome": "Pesquisa e desenvolvimento experimental em ciências sociais e humanas"
+  },
+  {
+    "codigo": "7320-3/00",
+    "nome": "Pesquisas de mercado e de opinião pública"
+  },
+  {
+    "codigo": "4211-1/02",
+    "nome": "Pintura para sinalização em pistas rodoviárias e aeroportos"
+  },
+  {
+    "codigo": "6511-1/02",
+    "nome": "Planos de auxílio-funeral"
+  },
+  {
+    "codigo": "6550-2/00",
+    "nome": "Planos de saúde"
+  },
+  {
+    "codigo": "6319-4/00",
+    "nome": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+  },
+  {
+    "codigo": "4311-8/02",
+    "nome": "Preparação de canteiro e limpeza de terreno"
+  },
+  {
+    "codigo": "8219-9/99",
+    "nome": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente"
+  },
+  {
+    "codigo": "2330-3/05",
+    "nome": "Preparação de massa de concreto e argamassa para construção"
+  },
+  {
+    "codigo": "1013-9/02",
+    "nome": "Preparação de subprodutos do abate"
+  },
+  {
+    "codigo": "1051-1/00",
+    "nome": "Preparação do leite"
+  },
+  {
+    "codigo": "1311-1/00",
+    "nome": "Preparação e fiação de fibras de algodão"
+  },
+  {
+    "codigo": "1312-0/00",
+    "nome": "Preparação e fiação de fibras têxteis naturais, exceto algodão"
+  },
+  {
+    "codigo": "1020-1/01",
+    "nome": "Preservação de peixes, crustáceos e moluscos"
+  },
+  {
+    "codigo": "6542-1/00",
+    "nome": "Previdência complementar aberta"
+  },
+  {
+    "codigo": "6541-3/00",
+    "nome": "Previdência complementar fechada"
+  },
+  {
+    "codigo": "1210-7/00",
+    "nome": "Processamento industrial do fumo"
+  },
+  {
+    "codigo": "2441-5/01",
+    "nome": "Produção de alumínio e suas ligas em formas primárias"
+  },
+  {
+    "codigo": "2424-5/01",
+    "nome": "Produção de arames de aço"
+  },
+  {
+    "codigo": "2532-2/01",
+    "nome": "Produção de artefatos estampados de metal"
+  },
+  {
+    "codigo": "0220-9/02",
+    "nome": "Produção de carvão vegetal - florestas nativas"
+  },
+  {
+    "codigo": "0210-1/08",
+    "nome": "Produção de carvão vegetal - florestas plantadas"
+  },
+  {
+    "codigo": "0210-1/09",
+    "nome": "Produção de casca de acácia-negra - florestas plantadas"
+  },
+  {
+    "codigo": "9001-9/04",
+    "nome": "Produção de espetáculos circenses, de marionetes e similares"
+  },
+  {
+    "codigo": "9001-9/03",
+    "nome": "Produção de espetáculos de dança"
+  },
+  {
+    "codigo": "9001-9/05",
+    "nome": "Produção de espetáculos de rodeios, vaquejadas e similares"
+  },
+  {
+    "codigo": "2411-3/00",
+    "nome": "Produção de ferro-gusa"
+  },
+  {
+    "codigo": "2412-1/00",
+    "nome": "Produção de ferroligas"
+  },
+  {
+    "codigo": "5911-1/02",
+    "nome": "Produção de filmes para publicidade"
+  },
+  {
+    "codigo": "2531-4/01",
+    "nome": "Produção de forjados de aço"
+  },
+  {
+    "codigo": "2531-4/02",
+    "nome": "Produção de forjados de metais não-ferrosos e suas ligas"
+  },
+  {
+    "codigo": "3520-4/01",
+    "nome": "Produção de gás"
+  },
+  {
+    "codigo": "2441-5/02",
+    "nome": "Produção de laminados de alumínio"
+  },
+  {
+    "codigo": "2449-1/02",
+    "nome": "Produção de laminados de zinco"
+  },
+  {
+    "codigo": "2423-7/02",
+    "nome": "Produção de laminados longos de aço, exceto tubos"
+  },
+  {
+    "codigo": "2422-9/01",
+    "nome": "Produção de laminados planos de aço ao carbono, revestidos ou não"
+  },
+  {
+    "codigo": "2422-9/02",
+    "nome": "Produção de laminados planos de aços especiais"
+  },
+  {
+    "codigo": "0142-3/00",
+    "nome": "Produção de mudas e outras formas de propagação vegetal, certificadas"
+  },
+  {
+    "codigo": "2439-3/00",
+    "nome": "Produção de outros tubos de ferro e aço"
+  },
+  {
+    "codigo": "0155-5/05",
+    "nome": "Produção de ovos"
+  },
+  {
+    "codigo": "0155-5/02",
+    "nome": "Produção de pintos de um dia"
+  },
+  {
+    "codigo": "0210-1/99",
+    "nome": "Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas"
+  },
+  {
+    "codigo": "2424-5/02",
+    "nome": "Produção de relaminados, trefilados e perfilados de aço, exceto arames"
+  },
+  {
+    "codigo": "0141-5/02",
+    "nome": "Produção de sementes certificadas de forrageiras para formação de pasto"
+  },
+  {
+    "codigo": "0141-5/01",
+    "nome": "Produção de sementes certificadas, exceto de forrageiras para pasto"
+  },
+  {
+    "codigo": "2421-1/00",
+    "nome": "Produção de semi-acabados de aço"
+  },
+  {
+    "codigo": "2449-1/03",
+    "nome": "Produção de soldas e ânodos para galvanoplastia"
+  },
+  {
+    "codigo": "2431-8/00",
+    "nome": "Produção de tubos de aço com costura"
+  },
+  {
+    "codigo": "2423-7/01",
+    "nome": "Produção de tubos de aço sem costura"
+  },
+  {
+    "codigo": "2449-1/01",
+    "nome": "Produção de zinco em formas primárias"
+  },
+  {
+    "codigo": "3530-1/00",
+    "nome": "Produção e distribuição de vapor, água quente e ar condicionado"
+  },
+  {
+    "codigo": "9319-1/01",
+    "nome": "Produção e promoção de eventos esportivos"
+  },
+  {
+    "codigo": "9001-9/02",
+    "nome": "Produção musical"
+  },
+  {
+    "codigo": "9001-9/01",
+    "nome": "Produção teatral"
+  },
+  {
+    "codigo": "6022-5/01",
+    "nome": "Programadoras"
+  },
+  {
+    "codigo": "7319-0/02",
+    "nome": "Promoção de vendas"
+  },
+  {
+    "codigo": "6190-6/01",
+    "nome": "Provedores de acesso às redes de comunicações"
+  },
+  {
+    "codigo": "6190-6/02",
+    "nome": "Provedores de voz sobre protocolo internet - VOIP"
+  },
+  {
+    "codigo": "0322-1/05",
+    "nome": "Ranicultura"
+  },
+  {
+    "codigo": "4751-2/02",
+    "nome": "Recarga de cartuchos para equipamentos de informática"
+  },
+  {
+    "codigo": "2722-8/02",
+    "nome": "Recondicionamento de baterias e acumuladores para veículos automotores"
+  },
+  {
+    "codigo": "2950-6/00",
+    "nome": "Recondicionamento e recuperação de motores para veículos automotores"
+  },
+  {
+    "codigo": "3831-9/99",
+    "nome": "Recuperação de materiais metálicos, exceto alumínio"
+  },
+  {
+    "codigo": "3839-4/99",
+    "nome": "Recuperação de materiais não especificados anteriormente"
+  },
+  {
+    "codigo": "3832-7/00",
+    "nome": "Recuperação de materiais plásticos"
+  },
+  {
+    "codigo": "3831-9/01",
+    "nome": "Recuperação de sucatas de alumínio"
+  },
+  {
+    "codigo": "0892-4/03",
+    "nome": "Refino e outros tratamentos do sal"
+  },
+  {
+    "codigo": "2212-9/00",
+    "nome": "Reforma de pneumáticos usados"
+  },
+  {
+    "codigo": "8412-4/00",
+    "nome": "Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais"
+  },
+  {
+    "codigo": "8413-2/00",
+    "nome": "Regulação das atividades econômicas"
+  },
+  {
+    "codigo": "8421-3/00",
+    "nome": "Relações exteriores"
+  },
+  {
+    "codigo": "9529-1/05",
+    "nome": "Reparação de artigos do mobiliário"
+  },
+  {
+    "codigo": "9529-1/04",
+    "nome": "Reparação de bicicletas, triciclos e outros veículos não-motorizados"
+  },
+  {
+    "codigo": "9529-1/01",
+    "nome": "Reparação de calçados, bolsas e artigos de viagem"
+  },
+  {
+    "codigo": "9529-1/06",
+    "nome": "Reparação de jóias"
+  },
+  {
+    "codigo": "9529-1/03",
+    "nome": "Reparação de relógios"
+  },
+  {
+    "codigo": "9511-8/00",
+    "nome": "Reparação e manutenção de computadores e de equipamentos periféricos"
+  },
+  {
+    "codigo": "9512-6/00",
+    "nome": "Reparação e manutenção de equipamentos de comunicação"
+  },
+  {
+    "codigo": "9521-5/00",
+    "nome": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+  },
+  {
+    "codigo": "9529-1/99",
+    "nome": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+  },
+  {
+    "codigo": "6619-3/03",
+    "nome": "Representações de bancos estrangeiros"
+  },
+  {
+    "codigo": "4612-5/00",
+    "nome": "Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos"
+  },
+  {
+    "codigo": "4615-0/00",
+    "nome": "Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico"
+  },
+  {
+    "codigo": "4618-4/02",
+    "nome": "Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares"
+  },
+  {
+    "codigo": "4618-4/03",
+    "nome": "Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações"
+  },
+  {
+    "codigo": "4613-3/00",
+    "nome": "Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens"
+  },
+  {
+    "codigo": "4614-1/00",
+    "nome": "Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves"
+  },
+  {
+    "codigo": "4611-7/00",
+    "nome": "Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos"
+  },
+  {
+    "codigo": "4618-4/01",
+    "nome": "Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria"
+  },
+  {
+    "codigo": "4619-2/00",
+    "nome": "Representantes comerciais e agentes do comércio de mercadorias em geral não especializado"
+  },
+  {
+    "codigo": "4542-1/01",
+    "nome": "Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios"
+  },
+  {
+    "codigo": "4530-7/06",
+    "nome": "Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores"
+  },
+  {
+    "codigo": "4617-6/00",
+    "nome": "Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo"
+  },
+  {
+    "codigo": "4616-8/00",
+    "nome": "Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem"
+  },
+  {
+    "codigo": "4512-9/01",
+    "nome": "Representantes comerciais e agentes do comércio de veículos automotores"
+  },
+  {
+    "codigo": "1830-0/03",
+    "nome": "Reprodução de software em qualquer suporte"
+  },
+  {
+    "codigo": "1830-0/01",
+    "nome": "Reprodução de som em qualquer suporte"
+  },
+  {
+    "codigo": "1830-0/02",
+    "nome": "Reprodução de vídeo em qualquer suporte"
+  },
+  {
+    "codigo": "1922-5/02",
+    "nome": "Rerrefino de óleos lubrificantes"
+  },
+  {
+    "codigo": "6530-8/00",
+    "nome": "Resseguros"
+  },
+  {
+    "codigo": "9002-7/02",
+    "nome": "Restauração de obras de arte"
+  },
+  {
+    "codigo": "9102-3/02",
+    "nome": "Restauração e conservação de lugares e prédios históricos"
+  },
+  {
+    "codigo": "5611-2/01",
+    "nome": "Restaurantes e similares"
+  },
+  {
+    "codigo": "8299-7/07",
+    "nome": "Salas de acesso à internet"
+  },
+  {
+    "codigo": "6492-1/00",
+    "nome": "Securitização de créditos"
+  },
+  {
+    "codigo": "8424-8/00",
+    "nome": "Segurança e ordem pública"
+  },
+  {
+    "codigo": "8430-2/00",
+    "nome": "Seguridade social obrigatória"
+  },
+  {
+    "codigo": "6511-1/01",
+    "nome": "Seguros de vida"
+  },
+  {
+    "codigo": "6512-0/00",
+    "nome": "Seguros não-vida"
+  },
+  {
+    "codigo": "6520-1/00",
+    "nome": "Seguros-saúde"
+  },
+  {
+    "codigo": "7810-8/00",
+    "nome": "Seleção e agenciamento de mão-de-obra"
+  },
+  {
+    "codigo": "1610-2/01",
+    "nome": "Serrarias com desdobramento de madeira"
+  },
+  {
+    "codigo": "1610-2/02",
+    "nome": "Serrarias sem desdobramento de madeira"
+  },
+  {
+    "codigo": "2599-3/02",
+    "nome": "Serviço de corte e dobra de metais"
+  },
+  {
+    "codigo": "0162-8/01",
+    "nome": "Serviço de inseminação artificial em animais"
+  },
+  {
+    "codigo": "0162-8/03",
+    "nome": "Serviço de manejo de animais"
+  },
+  {
+    "codigo": "0161-0/02",
+    "nome": "Serviço de poda de árvores para lavouras"
+  },
+  {
+    "codigo": "0161-0/03",
+    "nome": "Serviço de preparação de terreno, cultivo e colheita"
+  },
+  {
+    "codigo": "0159-8/99",
+    "nome": "Serviço de pulverização e controle de pragas agrícolas"
+  },
+  {
+    "codigo": "4923-0/01",
+    "nome": "Serviço de táxi"
+  },
+  {
+    "codigo": "5112-9/01",
+    "nome": "Serviço de táxi aéreo e locação de aeronaves com tripulação"
+  },
+  {
+    "codigo": "0162-8/02",
+    "nome": "Serviço de tosquiamento de ovinos"
+  },
+  {
+    "codigo": "4923-0/02",
+    "nome": "Serviço de transporte de passageiros - locação de automóveis com motorista"
+  },
+  {
+    "codigo": "6120-5/02",
+    "nome": "Serviço móvel especializado - SME"
+  },
+  {
+    "codigo": "6911-7/01",
+    "nome": "Serviços advocatícios"
+  },
+  {
+    "codigo": "5612-1/00",
+    "nome": "Serviços ambulantes de alimentação"
+  },
+  {
+    "codigo": "8211-3/00",
+    "nome": "Serviços combinados de escritório e apoio administrativo"
+  },
+  {
+    "codigo": "8111-7/00",
+    "nome": "Serviços combinados para apoio a edifícios, exceto condomínios prediais"
+  },
+  {
+    "codigo": "1822-9/00",
+    "nome": "Serviços de acabamentos gráficos"
+  },
+  {
+    "codigo": "1822-9/99",
+    "nome": "Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+  },
+  {
+    "codigo": "8011-1/02",
+    "nome": "Serviços de adestramento de cães de guarda"
+  },
+  {
+    "codigo": "7490-1/03",
+    "nome": "Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias"
+  },
+  {
+    "codigo": "5620-1/02",
+    "nome": "Serviços de alimentação para eventos e recepções - bufê"
+  },
+  {
+    "codigo": "4520-0/04",
+    "nome": "Serviços de alinhamento e balanceamento de veículos automotores"
+  },
+  {
+    "codigo": "5229-0/01",
+    "nome": "Serviços de apoio ao transporte por táxi, inclusive centrais de chamada"
+  },
+  {
+    "codigo": "7111-1/00",
+    "nome": "Serviços de arquitetura"
+  },
+  {
+    "codigo": "8800-6/00",
+    "nome": "Serviços de assistência social sem alojamento"
+  },
+  {
+    "codigo": "8640-2/14",
+    "nome": "Serviços de bancos de células e tecidos humanos"
+  },
+  {
+    "codigo": "4520-0/06",
+    "nome": "Serviços de borracharia para veículos automotores"
+  },
+  {
+    "codigo": "4520-0/08",
+    "nome": "Serviços de capotaria"
+  },
+  {
+    "codigo": "7119-7/01",
+    "nome": "Serviços de cartografia, topografia e geodésia"
+  },
+  {
+    "codigo": "6110-8/03",
+    "nome": "Serviços de comunicação multimídia - SCM"
+  },
+  {
+    "codigo": "2599-3/01",
+    "nome": "Serviços de confecção de armações metálicas para a construção"
+  },
+  {
+    "codigo": "9603-3/02",
+    "nome": "Serviços de cremação"
+  },
+  {
+    "codigo": "7119-7/03",
+    "nome": "Serviços de desenho técnico relacionados à arquitetura e engenharia"
+  },
+  {
+    "codigo": "8640-2/05",
+    "nome": "Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia"
+  },
+  {
+    "codigo": "8640-2/07",
+    "nome": "Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética"
+  },
+  {
+    "codigo": "8640-2/09",
+    "nome": "Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos"
+  },
+  {
+    "codigo": "8640-2/08",
+    "nome": "Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos"
+  },
+  {
+    "codigo": "8640-2/03",
+    "nome": "Serviços de diálise e nefrologia"
+  },
+  {
+    "codigo": "5912-0/01",
+    "nome": "Serviços de dublagem"
+  },
+  {
+    "codigo": "1822-9/01",
+    "nome": "Serviços de encadernação e plastificação"
+  },
+  {
+    "codigo": "7112-0/00",
+    "nome": "Serviços de engenharia"
+  },
+  {
+    "codigo": "5320-2/02",
+    "nome": "Serviços de entrega rápida"
+  },
+  {
+    "codigo": "9603-3/04",
+    "nome": "Serviços de funerárias"
+  },
+  {
+    "codigo": "8299-7/03",
+    "nome": "Serviços de gravação de carimbos, exceto confecção"
+  },
+  {
+    "codigo": "8640-2/12",
+    "nome": "Serviços de hemoterapia"
+  },
+  {
+    "codigo": "4520-0/07",
+    "nome": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+  },
+  {
+    "codigo": "3250-7/09",
+    "nome": "Serviços de laboratórios ópticos"
+  },
+  {
+    "codigo": "4520-0/02",
+    "nome": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+  },
+  {
+    "codigo": "4520-0/05",
+    "nome": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+  },
+  {
+    "codigo": "8299-7/05",
+    "nome": "Serviços de levantamento de fundos sob contrato"
+  },
+  {
+    "codigo": "6619-3/01",
+    "nome": "Serviços de liquidação e custódia"
+  },
+  {
+    "codigo": "8640-2/13",
+    "nome": "Serviços de litotripsia"
+  },
+  {
+    "codigo": "5320-2/01",
+    "nome": "Serviços de malote não realizados pelo Correio Nacional"
+  },
+  {
+    "codigo": "4520-0/03",
+    "nome": "Serviços de manutenção e reparação elétrica de veículos automotores"
+  },
+  {
+    "codigo": "4520-0/01",
+    "nome": "Serviços de manutenção e reparação mecânica de veículos automotores"
+  },
+  {
+    "codigo": "7420-0/05",
+    "nome": "Serviços de microfilmagem"
+  },
+  {
+    "codigo": "5912-0/02",
+    "nome": "Serviços de mixagem sonora em produção audiovisual"
+  },
+  {
+    "codigo": "3329-5/01",
+    "nome": "Serviços de montagem de móveis de qualquer material"
+  },
+  {
+    "codigo": "4399-1/04",
+    "nome": "Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras"
+  },
+  {
+    "codigo": "8230-0/01",
+    "nome": "Serviços de organização de feiras, congressos, exposições e festas"
+  },
+  {
+    "codigo": "7119-7/04",
+    "nome": "Serviços de perícia técnica relacionados à segurança do trabalho"
+  },
+  {
+    "codigo": "4330-4/04",
+    "nome": "Serviços de pintura de edifícios em geral"
+  },
+  {
+    "codigo": "1821-1/00",
+    "nome": "Serviços de pré-impressão"
+  },
+  {
+    "codigo": "4319-3/00",
+    "nome": "Serviços de preparação do terreno não especificados anteriormente"
+  },
+  {
+    "codigo": "3250-7/06",
+    "nome": "Serviços de prótese dentária"
+  },
+  {
+    "codigo": "8640-2/10",
+    "nome": "Serviços de quimioterapia"
+  },
+  {
+    "codigo": "8640-2/11",
+    "nome": "Serviços de radioterapia"
+  },
+  {
+    "codigo": "5229-0/02",
+    "nome": "Serviços de reboque de veículos"
+  },
+  {
+    "codigo": "6110-8/02",
+    "nome": "Serviços de redes de transporte de telecomunicações - SRTT"
+  },
+  {
+    "codigo": "8622-4/00",
+    "nome": "Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências"
+  },
+  {
+    "codigo": "7990-2/00",
+    "nome": "Serviços de reservas e outros serviços de turismo não especificados anteriormente"
+  },
+  {
+    "codigo": "8640-2/06",
+    "nome": "Serviços de ressonância magnética"
+  },
+  {
+    "codigo": "9603-3/03",
+    "nome": "Serviços de sepultamento"
+  },
+  {
+    "codigo": "9603-3/05",
+    "nome": "Serviços de somatoconservação"
+  },
+  {
+    "codigo": "9609-2/06",
+    "nome": "Serviços de tatuagem e colocação de piercing"
+  },
+  {
+    "codigo": "6110-8/99",
+    "nome": "Serviços de telecomunicações por fio não especificados anteriormente"
+  },
+  {
+    "codigo": "6120-5/99",
+    "nome": "Serviços de telecomunicações sem fio não especificados anteriormente"
+  },
+  {
+    "codigo": "6110-8/01",
+    "nome": "Serviços de telefonia fixa comutada - STFC"
+  },
+  {
+    "codigo": "8640-2/04",
+    "nome": "Serviços de tomografia"
+  },
+  {
+    "codigo": "7490-1/01",
+    "nome": "Serviços de tradução, interpretação e similares"
+  },
+  {
+    "codigo": "2539-0/02",
+    "nome": "Serviços de tratamento e revestimento em metais"
+  },
+  {
+    "codigo": "2539-0/01",
+    "nome": "Serviços de usinagem, tornearia e solda"
+  },
+  {
+    "codigo": "8630-5/06",
+    "nome": "Serviços de vacinação e imunização humana"
+  },
+  {
+    "codigo": "9700-5/00",
+    "nome": "Serviços domésticos"
+  },
+  {
+    "codigo": "4399-1/99",
+    "nome": "Serviços especializados para construção não especificados anteriormente"
+  },
+  {
+    "codigo": "8621-6/02",
+    "nome": "Serviços móveis de atendimento a urgências, exceto por UTI móvel"
+  },
+  {
+    "codigo": "6450-6/00",
+    "nome": "Sociedades de capitalização"
+  },
+  {
+    "codigo": "6437-9/00",
+    "nome": "Sociedades de crédito ao microempreendedor"
+  },
+  {
+    "codigo": "6435-2/01",
+    "nome": "Sociedades de crédito imobiliário"
+  },
+  {
+    "codigo": "6436-1/00",
+    "nome": "Sociedades de crédito, financiamento e investimento - financeiras"
+  },
+  {
+    "codigo": "6491-3/00",
+    "nome": "Sociedades de fomento mercantil - factoring"
+  },
+  {
+    "codigo": "6499-9/02",
+    "nome": "Sociedades de investimento"
+  },
+  {
+    "codigo": "6209-1/00",
+    "nome": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+  },
+  {
+    "codigo": "4729-6/01",
+    "nome": "Tabacaria"
+  },
+  {
+    "codigo": "1321-9/00",
+    "nome": "Tecelagem de fios de algodão"
+  },
+  {
+    "codigo": "1323-5/00",
+    "nome": "Tecelagem de fios de fibras artificiais e sintéticas"
+  },
+  {
+    "codigo": "1322-7/00",
+    "nome": "Tecelagem de fios de fibras têxteis naturais, exceto algodão"
+  },
+  {
+    "codigo": "6130-2/00",
+    "nome": "Telecomunicações por satélite"
+  },
+  {
+    "codigo": "6120-5/01",
+    "nome": "Telefonia móvel celular"
+  },
+  {
+    "codigo": "5222-2/00",
+    "nome": "Terminais rodoviários e ferroviários"
+  },
+  {
+    "codigo": "7120-1/00",
+    "nome": "Testes e análises técnicas"
+  },
+  {
+    "codigo": "9601-7/02",
+    "nome": "Tinturarias"
+  },
+  {
+    "codigo": "9601-7/03",
+    "nome": "Toalheiros"
+  },
+  {
+    "codigo": "1081-3/02",
+    "nome": "Torrefação e moagem de café"
+  },
+  {
+    "codigo": "3512-3/00",
+    "nome": "Transmissão de energia elétrica"
+  },
+  {
+    "codigo": "5120-0/00",
+    "nome": "Transporte aéreo de carga"
+  },
+  {
+    "codigo": "5111-1/00",
+    "nome": "Transporte aéreo de passageiros regular"
+  },
+  {
+    "codigo": "5099-8/01",
+    "nome": "Transporte aquaviário para passeios turísticos"
+  },
+  {
+    "codigo": "4940-0/00",
+    "nome": "Transporte dutoviário"
+  },
+  {
+    "codigo": "4924-8/00",
+    "nome": "Transporte escolar"
+  },
+  {
+    "codigo": "5130-7/00",
+    "nome": "Transporte espacial"
+  },
+  {
+    "codigo": "4911-6/00",
+    "nome": "Transporte ferroviário de carga"
+  },
+  {
+    "codigo": "4912-4/01",
+    "nome": "Transporte ferroviário de passageiros intermunicipal e interestadual"
+  },
+  {
+    "codigo": "4912-4/02",
+    "nome": "Transporte ferroviário de passageiros municipal e em região metropolitana"
+  },
+  {
+    "codigo": "5011-4/01",
+    "nome": "Transporte marítimo de cabotagem - Carga"
+  },
+  {
+    "codigo": "5011-4/02",
+    "nome": "Transporte marítimo de cabotagem - passageiros"
+  },
+  {
+    "codigo": "5012-2/01",
+    "nome": "Transporte marítimo de longo curso - Carga"
+  },
+  {
+    "codigo": "5012-2/02",
+    "nome": "Transporte marítimo de longo curso - Passageiros"
+  },
+  {
+    "codigo": "4912-4/03",
+    "nome": "Transporte metroviário"
+  },
+  {
+    "codigo": "5091-2/02",
+    "nome": "Transporte por navegação de travessia, intermunicipal"
+  },
+  {
+    "codigo": "5091-2/01",
+    "nome": "Transporte por navegação de travessia, municipal"
+  },
+  {
+    "codigo": "5021-1/02",
+    "nome": "Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia"
+  },
+  {
+    "codigo": "5021-1/01",
+    "nome": "Transporte por navegação interior de carga, municipal, exceto travessia"
+  },
+  {
+    "codigo": "5022-0/02",
+    "nome": "Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia"
+  },
+  {
+    "codigo": "5022-0/01",
+    "nome": "Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia"
+  },
+  {
+    "codigo": "4922-1/02",
+    "nome": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual"
+  },
+  {
+    "codigo": "4921-3/02",
+    "nome": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana"
+  },
+  {
+    "codigo": "4922-1/01",
+    "nome": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana"
+  },
+  {
+    "codigo": "4922-1/03",
+    "nome": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional"
+  },
+  {
+    "codigo": "4921-3/01",
+    "nome": "Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal"
+  },
+  {
+    "codigo": "4929-9/02",
+    "nome": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional"
+  },
+  {
+    "codigo": "4929-9/01",
+    "nome": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal"
+  },
+  {
+    "codigo": "4930-2/02",
+    "nome": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+  },
+  {
+    "codigo": "4930-2/01",
+    "nome": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal"
+  },
+  {
+    "codigo": "4930-2/04",
+    "nome": "Transporte rodoviário de mudanças"
+  },
+  {
+    "codigo": "4930-2/03",
+    "nome": "Transporte rodoviário de produtos perigosos"
+  },
+  {
+    "codigo": "6311-9/00",
+    "nome": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+  },
+  {
+    "codigo": "3821-1/00",
+    "nome": "Tratamento e disposição de resíduos não-perigosos"
+  },
+  {
+    "codigo": "3822-0/00",
+    "nome": "Tratamento e disposição de resíduos perigosos"
+  },
+  {
+    "codigo": "4329-1/05",
+    "nome": "Tratamentos térmicos, acústicos ou de vibração"
+  },
+  {
+    "codigo": "8599-6/04",
+    "nome": "Treinamento em desenvolvimento profissional e gerencial"
+  },
+  {
+    "codigo": "8599-6/03",
+    "nome": "Treinamento em informática"
+  },
+  {
+    "codigo": "4950-7/00",
+    "nome": "Trens turísticos, teleféricos e similares"
+  },
+  {
+    "codigo": "3839-4/01",
+    "nome": "Usinas de compostagem"
+  },
+  {
+    "codigo": "8621-6/01",
+    "nome": "UTI móvel"
+  }
+]
