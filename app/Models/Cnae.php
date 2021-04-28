@@ -16,4 +16,22 @@ class Cnae extends Model
         'codigo',
         'nome'
     ];
+
+    /**
+     * Get informations specific cnea with code cnae
+     *
+     * @param $code
+     * @return mixed
+     */
+    public function getSpecificCnae($code)
+    {
+        return $this->select(
+            'codigo',
+            'nome',
+        )
+            ->where('codigo', $code);
+    }
+
+
+
 }
