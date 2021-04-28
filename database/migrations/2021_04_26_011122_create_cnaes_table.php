@@ -15,7 +15,7 @@ class CreateCnaesTable extends Migration
     {
         Schema::create('cnaes', function (Blueprint $table) {
             $table->integerIncrements('id_cnae');
-            $table->char('codigo', 9);
+            $table->char('codigo', 9)->unique();
             $table->string('nome');
         });
     }

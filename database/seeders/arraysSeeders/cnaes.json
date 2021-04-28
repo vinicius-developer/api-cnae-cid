@@ -1,6 +1,6 @@
 [
   {
-    "codigo": "1012-1/01", 
+    "codigo": "1012-1/01",
     "nome": "Abate de aves"
   },
   {
@@ -2411,7 +2411,7 @@
     "codigo": "1071-6/00",
     "nome": "Fabricação de açúcar em bruto"
   },
-  
+
   {
     "codigo": "2091-6/00",
     "nome": "Fabricação de adesivos e selantes"
@@ -4721,7 +4721,7 @@
     "nome": "Serviço de preparação de terreno, cultivo e colheita"
   },
   {
-    "codigo": "0159-8/99",
+    "codigo": "0161-0/01",
     "nome": "Serviço de pulverização e controle de pragas agrícolas"
   },
   {

@@ -15,7 +15,7 @@ class CreateCidsTable extends Migration
     {
         Schema::create('cids', function (Blueprint $table) {
             $table->integerIncrements('id_cid');
-            $table->char('codigo', 6);
+            $table->char('codigo', 6)->unique();
             $table->string('nome');
         });
     }
