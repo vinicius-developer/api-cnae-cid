@@ -3,7 +3,10 @@
 namespace App\Http\Controllers;
 
 use App\Models\Cnae;
+use App\Rule\TestRule;
 use App\Traits\ResponseMessage;
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 
 class CnaeController extends Controller
 {
@@ -21,9 +24,14 @@ class CnaeController extends Controller
         $this->cnae = new Cnae();
     }
 
-    public function find($code)
+    public function find(Request $request)
     {
-        $result = $this->cnae->getSpecificCnae($code)->get();
+        $this->validate($request, [
+            "cnae" => ['required', new TestRule()]
+        ]);
+
+
+        $result = $this->cnae->getSpecificCnae($request->cnae)->first();
 
         if(count($result)) {
             return $this->successMessage($result);

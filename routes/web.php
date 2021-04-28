@@ -19,6 +19,6 @@ $router->get('/', function () use ($router) {
 
 
 $router->group(['prefix' => 'cnae'], function() use ($router) {
-    $router->get('/{cnae}', 'CnaeConroller@getSpecificCnae');
+    $router->get('/find', 'CnaeController@getSpecificCnae');
 });
 
