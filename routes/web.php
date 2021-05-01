@@ -19,6 +19,18 @@ $router->get('/', function () use ($router) {
 
 
 $router->group(['prefix' => 'cnae'], function() use ($router) {
-    $router->get('/find', 'CnaeController@getSpecificCnae');
+    $router->get('/find/{rawCnae}', 'CnaeController@find');
+    $router->get('/cids/{rawCnae}', 'CnaeController@getCidsByCnae');
 });
+
+$router->group(['prefix' => 'cid'], function() use ($router) {
+    $router->get('/find/{rawCid}', 'CidController@find');
+    $router->get('/cnaes/{rawCid}', 'CidController@getCnaesByCId');
+});
+
+$router->group(['prefix' => 'relationship'], function() use ($router) {
+    $router->get('/exists/{rawCnae}/{rawCid}', 'RelecaoCnaeCidController@exists');
+});
+
+
 

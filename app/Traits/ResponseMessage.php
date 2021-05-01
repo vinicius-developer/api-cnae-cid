@@ -3,16 +3,18 @@
 namespace App\Traits;
 
 
+use Illuminate\Http\JsonResponse;
+
 Trait ResponseMessage {
 
 
     /**
      * Default success message
      *
-     * @param mixed $content
-     * @return \Illuminate\Http\JsonResponse
+     * @param $content
+     * @return JsonResponse
      */
-    public function successMessage($content)
+    public function successMessage($content): JsonResponse
     {
         return response()->json([
                 "status" => true,
@@ -24,11 +26,11 @@ Trait ResponseMessage {
     /**
      * Default error message
      *
-     * @param mixed $message
+     * @param $message
      * @param integer $code
-     * @return \Illuminate\Http\JsonResponse
+     * @return JsonResponse
      */
-    public function errorMessage($message, $code)
+    public function errorMessage($message, int $code): JsonResponse
     {
         return response()->json([
             "status" => false,

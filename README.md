@@ -1,25 +1,14 @@
-# Lumen PHP Framework
+#Api de Cnae e Cid
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://img.shields.io/packagist/v/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://img.shields.io/packagist/l/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
+Essa API foi criada com a funcção de encontrar cids relacionados a cnaes. Originalmente a api foi pensada para ser um módulo do meu outro projeto **ManegerControllGo** que também pode ser econtrado aqui no github.
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+Para fazer a inicialização rápida do projetoi, recomendo que o **docker** e o **docker-composser** esteja instaldo em seu dispositivo local, mas caso não esteja não nada o impede de configurar o banco de dados de forma simples.
 
-## Official Documentation
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+##Inicialização
 
-## Contributing
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+1. Primeiramente como de costume em um aplicativo laravel/lumen iremos configurar nosso arquivo `.env`
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# api-cnae-cid
+2.  
