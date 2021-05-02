@@ -48,7 +48,7 @@ class RelacaoCnaeCid extends Model
             'cn.nome'
         )
             ->join('cnaes as cn', 'cn.id_cnae', '=', 'relacao_cnae_cids.id_cnae')
-            ->where('rcc.id_cid', $id_cid);
+            ->where('relacao_cnae_cids.id_cid', $id_cid);
     }
 
 

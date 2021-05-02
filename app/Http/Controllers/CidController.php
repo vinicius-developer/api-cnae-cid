@@ -68,9 +68,11 @@ class CidController extends Controller
 
             $idCid = $this->cid->getIdByCode($cid);
 
-            $cnaes = $this->relacao_cnae_cid->getAllCnaeBySpecificCid($idCid);
+            $cnaes = $this->relacao_cnae_cid->getAllCnaeBySpecificCid($idCid)->get();
 
         } catch (Exception $e) {
+
+            dd($e->getMessage());
 
             return $this->errorMessage(['error' => "Não foi possível encontrar cnaes relacionados a esse cid"], 422);
 
