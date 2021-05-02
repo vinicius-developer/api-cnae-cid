@@ -31,7 +31,7 @@ terminal `docker-compose build`
 
 
 5. Agora precisaremos utilizar um comando dentro do container `app` para realizar
-todas as migrations necessárias, utilize o comando `docker-compose exec app php artisan migrate`.
+todas as migrations necessárias, utilize o comando `docker-compose exec app php artisan migrate --seed`.
 
 Obs. Caso o último passo tenha resultado em algum erro, verifique as configurações 
 do banco de dados no arquivo `.env`.
