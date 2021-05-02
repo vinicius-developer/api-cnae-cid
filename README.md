@@ -1,4 +1,4 @@
-#Api de Cnae e Cid
+# Api de Cnae e Cid
 
 Essa API foi criada com a função de encontrar cids relacionados a cnaes. Originalmente a 
 api foi pensada para ser um módulo do meu outro projeto **ManegerControllGo** que também 
@@ -9,7 +9,7 @@ esteja instalado no dispositivo local, mas caso não esteja não nada o impede d
 banco de dados de forma simples.
 
 
-##Inicialização
+## Inicialização
 
 1. Primeiramente como de costume em aplicativos laravel/lumen iremos configurar 
 o arquivo `.env`, copie e cole os dados do arquivo `.env.exemple`
@@ -37,9 +37,9 @@ Obs. Caso o último passo tenha resultado em algum erro, verifique as configura�
 do banco de dados no arquivo `.env`.
 
 
-##Rotas
+## Rotas
 
-###cnae
+### CNAE
 
 Exemplo de cnae sem pontuação: 1012101
 
@@ -90,7 +90,7 @@ Exemplo de resposta do código 1012101:
 
 
 
-###cid
+### CID
 
 Exemplo de cid em pontuação: T90 
 
@@ -141,7 +141,7 @@ Exemplo de resposta do codigo T90:
 }
 ```
 
-###relações
+### Relações
 
 Exemplo de cnae sem pontuação: 1012102.
 
