@@ -4,11 +4,6 @@ Essa API foi criada com a função de encontrar cids relacionados a cnaes. Origi
 api foi pensada para ser um módulo do meu outro projeto **ManegerControllGo** que também 
 pode ser encontrado aqui no github.
 
-Para fazer a inicialização rápida do projeto, recomendo que o **docker** e o **docker-compose** 
-esteja instalado no dispositivo local, mas caso não esteja não nada o impede de configurar o 
-banco de dados de forma simples.
-
-
 ## Inicialização
 
 1. Primeiramente como de costume em aplicativos laravel/lumen iremos configurar 
@@ -23,19 +18,12 @@ o arquivo `.env`, copie e cole os dados do arquivo `.env.exemple`
     DB_PASSWORD=secret
 ```
 
-3. Caso possua o `docker-compose` instalado, rode o seguinte comando no 
-terminal `docker-compose build`
+3. Utilize o seguinte comando para criar as tabelas no banco de dados `php artisan migrate`
 
-
-4. Rode o comando `docker-compose up` para levantar os containers.
-
-
-5. Agora precisaremos utilizar um comando dentro do container `app` para realizar
-todas as migrations necessárias, utilize o comando `docker-compose exec app php artisan migrate`.
-
-Obs. Caso o último passo tenha resultado em algum erro, verifique as configurações 
+Obs. Caso o último passo tenha resultado em algum erro, verifique as configurações
 do banco de dados no arquivo `.env`.
 
+4. Após isso execute o comando `php artisan db:seed`
 
 ## Rotas
 
