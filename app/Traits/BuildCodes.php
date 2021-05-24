@@ -4,7 +4,7 @@ namespace App\Traits;
 
 
 /**
- * Trait BuildCodes
+ * Traits BuildCodes
  * @package App\Traits
  */
 Trait BuildCodes {
