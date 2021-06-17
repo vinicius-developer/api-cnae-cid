@@ -66,4 +66,17 @@ class RelacaoCnaeCid extends Model
             ->exists();
     }
 
+    public function relationshipExistsArrayCodeCid(int $id_cnae, array $ids_cids)
+    {
+        return $this->select(
+            'c.codigo',
+            'ci.codigo'
+        )
+            ->where('id_cnae', $id_cnae)
+            ->wherein('id_cid', $ids_cids)
+            ->join('cnaes as c', 'c.id_cnae', '=', 'relacao_cnae_cids.id_cnae')
+            ->join('cids as ci', 'ci.id_cid', '=', 'relacao_cnae_cids.id_cid');
+    }
+
+
 }

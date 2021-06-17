@@ -30,6 +30,7 @@ $router->group(['prefix' => 'cid'], function() use ($router) {
 
 $router->group(['prefix' => 'relationship'], function() use ($router) {
     $router->get('/exists/{rawCnae}/{rawCid}', 'RelecaoCnaeCidController@exists');
+    $router->get('/exists-group', 'RelecaoCnaeCidController@exists_group');
 });
 
 

@@ -54,4 +54,12 @@ class Cid extends Model
             ->where('codigo', $code);
     }
 
+    public function getIdsByCodeArray(array $cids)
+    {
+        return $this->select(
+            'id_cid'
+        )
+            ->wherein('codigo', $cids);
+    }
+
 }

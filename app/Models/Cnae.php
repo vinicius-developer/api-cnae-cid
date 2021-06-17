@@ -50,4 +50,20 @@ class Cnae extends Model
         )
             ->where('codigo', $code);
     }
+
+
+    /**
+     * Pegar todos os ids de com base em
+     * um array de codigos do cnae
+     *
+     * @param array $cnaes
+     * @return mixed
+     */
+    public function getIdsByCodeArray(array $cnaes)
+    {
+        return $this->select(
+            'id_cnae'
+        )->wherein('codigo', $cnaes);
+    }
+
 }

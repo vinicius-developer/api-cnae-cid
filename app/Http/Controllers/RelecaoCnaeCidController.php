@@ -8,6 +8,7 @@ use App\Models\Cnae;
 use App\Traits\BuildCodes;
 use App\Models\RelacaoCnaeCid;
 use App\Traits\ResponseMessage;
+use Illuminate\Http\Request;;
 use Illuminate\Http\JsonResponse as Json;
 
 /**
@@ -63,6 +64,32 @@ class RelecaoCnaeCidController extends Controller
 
         return $this->successMessage(['exists' => $relationExists]);
 
+    }
+
+    public function exists_group(Request $request)
+    {
+
+        $this->validate_exists_group($request);
+
+        $id_cnaes = $this->cnae->getIdsByCodeArray($request->cnaes)->get();
+
+        $id_cids = $this->cid->getIdsByCodeArray($request->cid10)->get();
+
+        foreach ()
+
+    }
+
+    public function validate_exists_group(Request $request)
+    {
+        $this->validate($request, [
+            'cnaes' => 'required|array',
+            'cid10' => 'required|array'
+        ], [
+            'cnaes.required' => 'É necessário os cnae(s) da empresa',
+            'cnaes.array' => 'campo cnae precisa ser um array',
+            'cid10.required' => 'É necessário inserir o campo cid10',
+            'cid10.array' => 'campo cid10 precisa ser um array',
+        ]);
     }
 
 
