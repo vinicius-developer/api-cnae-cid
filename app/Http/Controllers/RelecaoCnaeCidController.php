@@ -51,13 +51,13 @@ class RelecaoCnaeCidController extends Controller
         try {
             $idCid = $this->cid->getIdByCode($cid);
         } catch (Exception $e) {
-            return $this->errorMessage(['error' => 'CID não existe'], 422);
+            return $this->errorMessage(['error' => 'CID não existe'], 403);
         }
 
         try {
             $idCnae = $this->cnae->getIdByCode($cnae);
         } catch (Exception $e) {
-            return $this->errorMessage(['error' => 'CNAE não existe'], 422);
+            return $this->errorMessage(['error' => 'CNAE não existe'], 403);
         }
 
         $relationExists = $this->relacao_cnae_cid->relationshipExists($idCnae, $idCid);
@@ -68,15 +68,31 @@ class RelecaoCnaeCidController extends Controller
 
     public function exists_group(Request $request)
     {
-
         $this->validate_exists_group($request);
 
-        $id_cnaes = $this->cnae->getIdsByCodeArray($request->cnaes)->get();
+        try {
+            $cnaes = $this->cnae->getIdsByCodeArray($request->cnaes)
+                ->get()
+                ->pluck('id_cnae');
 
-        $id_cids = $this->cid->getIdsByCodeArray($request->cid10)->get();
+            $cids = $this->cid->getIdsByCodeArray($request->cid10)
+                ->get()
+                ->pluck('id_cid');
 
-        foreach ()
+            $result = $this->relacao_cnae_cid
+                ->relationshipExistsArrayCodeCid($cnaes, $cids);
 
+        } catch(Exception $e) {
+            return $this->errorMessage([
+                'error' => "Não foi possível executar ação"
+            ], 400);
+        }
+
+        return $this->successMessage([
+            'label' => 'Relações',
+            'total' => $result->count(),
+            'relationship' => $result->get()
+        ]);
     }
 
     public function validate_exists_group(Request $request)
