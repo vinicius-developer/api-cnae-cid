@@ -54,6 +54,13 @@ class Cid extends Model
             ->where('codigo', $code);
     }
 
+    /**
+     * Recebe um array de CIDS e retorna os
+     * ids referentes a eles
+     *
+     * @param array $cids
+     * @return mixed
+     */
     public function getIdsByCodeArray(array $cids)
     {
         return $this->select(

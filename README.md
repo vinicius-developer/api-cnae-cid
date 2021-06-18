@@ -151,6 +151,51 @@ Exemplo de resposta com cnea 1012102 e cid T90.
 }
 ```
 
+`relationship/exists-group`: Essa rota pode receber vários CNAES e vários CIDS
+e retorna todos os CNAES e CIDS relacionados
+
+Exemplo de resposta utilizando o seguinte json:
+
+```
+{
+    "cnaes": [ "1012-1/02", "8411-6/00"],
+    "cid10": [ "F10", "F10.0", "A02.0", 
+	    "A02.0", "F10.1", "F19", "E10.5", 
+	    "E10.6", "E10.7"
+	    ]
+}
+```
+
+resposta: 
+
+```
+{
+  "status": true,
+  "message": [
+    {
+      "label": "Relações",
+      "total": 11,
+      "relationship": [
+        {
+          "codigo_cnae": "1012-1\/02",
+          "codigo_cid": "F10"
+        },
+        ...
+        {
+          "codigo_cnae": "8411-6\/00",
+          "codigo_cid": "F10.1"
+        },
+        {
+          "codigo_cnae": "8411-6\/00",
+          "codigo_cid": "F19"
+        }
+      ]
+    }
+  ]
+}
+
+
+```
 
 
 

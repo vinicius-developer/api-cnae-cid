@@ -66,13 +66,22 @@ class RelacaoCnaeCid extends Model
             ->exists();
     }
 
-    public function relationshipExistsArrayCodeCid($id_cnaes, $ids_cids)
+    /**
+     * Recebe um array de ids referentes e CIDS
+     * e um array de ids referentes a CNAES
+     * retorna todos os resultados que forem relacionados
+     *
+     * @param $ids_cnaes
+     * @param $ids_cids
+     * @return mixed
+     */
+    public function relationshipExistsArrayCodeCid($ids_cnaes, $ids_cids)
     {
         return $this->select(
             'c.codigo as codigo_cnae',
             'ci.codigo as codigo_cid'
         )
-            ->wherein('relacao_cnae_cids.id_cnae', $id_cnaes)
+            ->wherein('relacao_cnae_cids.id_cnae', $ids_cnaes)
             ->wherein('relacao_cnae_cids.id_cid', $ids_cids)
             ->join('cnaes as c', 'c.id_cnae', '=', 'relacao_cnae_cids.id_cnae')
             ->join('cids as ci', 'ci.id_cid', '=', 'relacao_cnae_cids.id_cid');

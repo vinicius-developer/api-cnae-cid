@@ -66,7 +66,15 @@ class RelecaoCnaeCidController extends Controller
 
     }
 
-    public function exists_group(Request $request)
+    /**
+     * Função função que pode receber vários CNAES
+     * e vários CIDS e retorna todas as relações
+     * existentes
+     *
+     * @param Request $request
+     * @return Json
+     */
+    public function exists_group(Request $request): Json
     {
         $this->validate_exists_group($request);
 
