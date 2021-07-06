@@ -79,6 +79,7 @@ class RelecaoCnaeCidController extends Controller
         $this->validate_exists_group($request);
 
         try {
+            
             $cnaes = $this->cnae->getIdsByCodeArray($request->cnaes)
                 ->get()
                 ->pluck('id_cnae');
@@ -96,8 +97,11 @@ class RelecaoCnaeCidController extends Controller
             ], 400);
         }
 
+        if(!$result->exists()) {
+            return response()->json([], 204);
+        }
+
         return $this->successMessage([
-            'label' => 'Relações',
             'total' => $result->count(),
             'relationship' => $result->get()
         ]);
