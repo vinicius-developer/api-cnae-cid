@@ -34,7 +34,7 @@ Trait ResponseMessage {
     {
         return response()->json([
             "status" => false,
-            "message" => [$message]
+            "message" => $message
         ], $code);
     }
 }

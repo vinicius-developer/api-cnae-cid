@@ -41,17 +41,22 @@ class CidController extends Controller
     {
         $cid = $this->buildCid($rawCid);
 
-        $result = $this->cid->getSpecificCid($cid)->first();
+        $result = $this->cid
+            ->getSpecificCid($cid);
 
-        if($result->count()) {
+        if($result->exists()) {
 
-            return $this->successMessage($result);
+            return $this->successMessage([
+                'exists' => true,
+                'cnae' => $result->first()
+            ]);
 
-        } else {
+        } 
 
-            return $this->errorMessage($result, 404);
-
-        }
+        return $this->successMessage([
+            'exists' => false,
+            'cnae' => "CID $rawCid não existe"
+        ]);
     }
 
     /**
@@ -68,13 +73,15 @@ class CidController extends Controller
 
             $idCid = $this->cid->getIdByCode($cid);
 
-            $cnaes = $this->relacao_cnae_cid->getAllCnaeBySpecificCid($idCid)->get();
+            $cnaes = $this->relacao_cnae_cid
+                ->getAllCnaeBySpecificCid($idCid)
+                ->get();
 
         } catch (Exception $e) {
 
-            dd($e->getMessage());
-
-            return $this->errorMessage(['error' => "Não foi possível encontrar cnaes relacionados a esse cid"], 422);
+            return $this->errorMessage([
+                'error' => "Não foi possível encontrar cnaes relacionados a esse cid"
+            ], 422);
 
         }
 
