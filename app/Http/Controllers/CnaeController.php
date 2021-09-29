@@ -49,11 +49,10 @@ class CnaeController extends Controller
 
             return $this->successMessage($result);
 
-        } else {
-
-            return $this->errorMessage($result, 404);
-
         }
+
+        return $this->errorMessage($result, 404);
+
     }
 
     /**

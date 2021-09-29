@@ -43,7 +43,7 @@ class CidController extends Controller
 
         $result = $this->cid
             ->getSpecificCid($cid);
-
+        
         if($result->exists()) {
 
             return $this->successMessage([
